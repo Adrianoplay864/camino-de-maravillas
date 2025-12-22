@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carregando... - Camino de Maravillas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <!-- Header -->
+    <div id="header-container"></div>
+
+    <!-- Hero do Destino -->
+    <section class="hero hero-destino" id="hero-destino">
+        <div class="container">
+            <h1 id="destino-titulo" class="fade-in">Carregando...</h1>
+            <p id="destino-descricao" class="fade-in delay-1"></p>
+        </div>
+    </section>
+
+    <!-- Seção de Pacotes -->
+    <section class="travel-section">
+        <div class="container">
+            <div class="section-header">
+                <h3>PACOTES DISPONÍVEIS</h3>
+                <p>Escolha o pacote ideal para sua viagem</p>
+            </div>
+
+            <!-- Grid de Pacotes -->
+            <div class="destinations-grid" id="pacotes-container">
+                <!-- Carregado dinamicamente -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <div id="footer-container"></div>
+
+    <!-- Scripts -->
+    <script src="common.js"></script>
+    <script>
+        // Carregar componentes
+        document.addEventListener("DOMContentLoaded", () => {
+            loadComponent("header-container", "header.html")
+                .then(() => initializeHeader());
+            
+            loadComponent("footer-container", "footer.html");
+            
+            // Carregar dados do destino
+            loadDestino();
+        });
+
+        // Função principal para carregar dados do destino
+        async function loadDestino() {
+            const continenteSlug = getQueryParam('continente');
+            const destinoSlug = getQueryParam('destino');
+            
+            if (!continenteSlug || !destinoSlug) {
+                window.location.href = 'index.html';
+                return;
+            }
+
+            try {
+                const response = await fetch('destinos.json');
+                const data = await response.json();
+                
+                // Encontrar continente e destino
+                const continente = data.continentes.find(c => c.slug === continenteSlug);
+                const destino = continente?.subdestinos?.find(d => d.slug === destinoSlug);
+                
+                if (!continente || !destino) {
+                    window.location.href = 'index.html';
+                    return;
+                }
+
+                // Atualizar título da página
+                document.title = `${destino.nome} - Pacotes - Camino de Maravillas`;
+                
+                // Atualizar hero section
+                document.getElementById('destino-titulo').textContent = destino.nome;
+                document.getElementById('destino-descricao').textContent = destino.descricao;
+                document.getElementById('hero-destino').style.backgroundImage = 
+                    `url('${destino.imagem}')`;
+                
+                // Carregar pacotes
+                const container = document.getElementById('pacotes-container');
+                
+                if (destino.pacotes && destino.pacotes.length > 0) {
+                    destino.pacotes.forEach((pacote, index) => {
+                        const card = document.createElement('div');
+                        card.className = `destination-card fade-in delay-${index % 3}`;
+                        
+                        card.innerHTML = `
+                            <div class="destination-img" style="background-image: url('${pacote.imagem}');">
+                                <div class="destination-price">Desde ${pacote.preco}</div>
+                            </div>
+                            <div class="destination-info">
+                                <h3>${pacote.nome}</h3>
+                                <p>${pacote.descricao}</p>
+                                
+                                <div class="destination-meta">
+                                    <span><i class="far fa-calendar"></i> ${pacote.duracao}</span>
+                                </div>
+                                
+                                <div class="card-actions">
+                                    <button class="btn btn-plano ver-pacote" data-id="${pacote.id}">
+                                        Ver Detalhes
+                                    </button>
+                                    <a href="https://wa.me/573125493738?text=Olá! Gostaria de reservar o pacote ${encodeURIComponent(pacote.nome)} (${pacote.preco}) para ${encodeURIComponent(destino.nome)}" 
+                                       class="btn btn-whatsapp" target="_blank">
+                                        <i class="fab fa-whatsapp"></i> Reservar
+                                    </a>
+                                </div>
+                            </div>
+                        `;
+                        
+                        container.appendChild(card);
+                    });
+
+                    // Adicionar event listeners para detalhes dos pacotes
+                    document.querySelectorAll('.ver-pacote').forEach(button => {
+                        button.addEventListener('click', (e) => {
+                            const id = parseInt(e.target.dataset.id || e.target.closest('.ver-pacote').dataset.id);
+                            const pacote = destino.pacotes.find(p => p.id === id);
+                            showModalPacote(pacote, destino);
+                        });
+                    });
+                } else {
+                    container.innerHTML = `
+                        <div class="no-results" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
+                            <h3>Pacotes em breve!</h3>
+                            <p>Estamos preparando pacotes incríveis para ${destino.nome}.</p>
+                            <a href="continente.html?continente=${continente.slug}" class="btn" style="margin-top: 20px;">
+                                <i class="fas fa-arrow-left"></i> Voltar para ${continente.nome}
+                            </a>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                console.error('Erro ao carregar destino:', error);
+                document.getElementById('pacotes-container').innerHTML = `
+                    <div class="error-message" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
+                        <h3>Erro ao carregar conteúdo</h3>
+                        <p>Por favor, tente novamente mais tarde.</p>
+                        <a href="index.html" class="btn" style="margin-top: 20px;">Voltar para Início</a>
+                    </div>
+                `;
+            }
+        }
+
+        // Função para mostrar modal com detalhes do pacote
+        function showModalPacote(pacote, destino) {
+            const modal = document.createElement('div');
+            modal.className = 'modal-overlay';
+            
+            modal.innerHTML = `
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2>${pacote.nome}</h2>
+                        <button class="modal-close">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-imagem" style="background-image: url('${pacote.imagem}');"></div>
+                        <div class="modal-details">
+                            <p style="font-size: 1.1rem; margin-bottom: 20px;">${pacote.descricao}</p>
+                            
+                            <div class="detalhes-grid">
+                                <div class="detalhe-box">
+                                    <h4><i class="far fa-calendar"></i> Duração</h4>
+                                    <p>${pacote.duracao}</p>
+                                </div>
+                                <div class="detalhe-box">
+                                    <h4><i class="fas fa-dollar-sign"></i> Preço</h4>
+                                    <p>${pacote.preco}</p>
+                                </div>
+                                <div class="detalhe-box">
+                                    <h4><i class="fas fa-plane-departure"></i> Saídas</h4>
+                                    <p>${pacote.saidas.join('<br>')}</p>
+                                </div>
+                                <div class="detalhe-box">
+                                    <h4><i class="fas fa-map-marked-alt"></i> Roteiro</h4>
+                                    <p>${pacote.roteiro}</p>
+                                </div>
+                            </div>
+                            
+                            <div class="destaques-box">
+                                <h4><i class="fas fa-star"></i> Destaques do Pacote</h4>
+                                <ul class="destaques-list">
+                                    ${pacote.destaques.map(item => `<li>${item}</li>`).join('')}
+                                </ul>
+                            </div>
+                            
+                            <div class="modal-actions">
+                                <button class="btn btn-secondary close-modal">
+                                    <i class="fas fa-times"></i> Fechar
+                                </button>
+                                <a href="https://wa.me/573125493738?text=Olá! Gostaria de reservar o pacote ${encodeURIComponent(pacote.nome)} (${pacote.preco}) para ${encodeURIComponent(destino.nome)}" 
+                                   class="btn btn-whatsapp" target="_blank">
+                                    <i class="fab fa-whatsapp"></i> Reservar Agora
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            
+            // Adicionar funcionalidade de fechar
+            modal.querySelector('.modal-close').addEventListener('click', () => modal.remove());
+            modal.querySelector('.close-modal').addEventListener('click', () => modal.remove());
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.remove();
+            });
+        }
+    </script>
+</body>
+</html>

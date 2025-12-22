@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Camino de Maravillas - Agência de Viagens</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Header -->
+    <div id="header-container"></div>
+
+    <!-- Hero Section -->
+    <section class="hero hero-home" id="home">
+        <div class="container">
+            <h1 class="fade-in">Descubra o Mundo com a Camino de Maravillas</h1>
+            <p class="fade-in delay-1">
+                Oferecemos as melhores experiências de viagem personalizadas para você. 
+                Explore destinos incríveis com conforto, segurança e preços especiais.
+            </p>
+            <div class="hero-buttons">
+                <a href="#mundo" class="btn fade-in delay-2">Ver Pacotes</a>
+                <a href="#contact" class="btn btn-secondary fade-in delay-3">Fale Conosco</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção 1: Viagens pelo Mundo -->
+    <section id="mundo" class="travel-section">
+        <div class="container">
+            <div class="section-header">
+                <h3>VIAGENS PELO MUNDO</h3>
+                <p>Destinos exóticos e experiências únicas em todos os continentes</p>
+            </div>
+
+            <!-- Grid de Destinos -->
+            <div class="destinations-grid" id="destinations-container">
+                <!-- Carregado dinamicamente do destinos.json -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção 2: Nossos Serviços -->
+    <section id="servicos" class="services-section">
+        <div class="container">
+            <div class="section-title">
+                <h2>Nossos Serviços</h2>
+                <p>Tudo que você precisa para uma viagem perfeita</p>
+            </div>
+            
+            <div class="services-grid">
+                <div class="service-card fade-in">
+                    <div class="service-icon">
+                        <i class="fas fa-plane"></i>
+                    </div>
+                    <h3>Passagens Aéreas</h3>
+                    <p>Melhores preços em passagens aéreas para qualquer destino do mundo.</p>
+                </div>
+                
+                <div class="service-card fade-in delay-1">
+                    <div class="service-icon">
+                        <i class="fas fa-hotel"></i>
+                    </div>
+                    <h3>Hospedagem</h3>
+                    <p>Hotéis, resorts e pousadas com qualidade garantida e preços especiais.</p>
+                </div>
+                
+                <div class="service-card fade-in delay-2">
+                    <div class="service-icon">
+                        <i class="fas fa-map-marked-alt"></i>
+                    </div>
+                    <h3>Roteiros Personalizados</h3>
+                    <p>Criamos roteiros exclusivos de acordo com seu perfil e preferências.</p>
+                </div>
+                
+                <div class="service-card fade-in delay-3">
+                    <div class="service-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Seguro Viagem</h3>
+                    <p>Proteção completa para sua viagem com as melhores seguradoras.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção 3: Depoimentos -->
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <div class="section-title">
+                <h2>O que nossos clientes dizem</h2>
+                <p>Experiências reais de viajantes satisfeitos</p>
+            </div>
+            
+            <div class="testimonial-slider">
+                <div class="testimonial-slide">
+                    <div class="client-img" style="background-image: url('https://randomuser.me/api/portraits/women/32.jpg');"></div>
+                    <p class="testimonial-text">"Viajei para a Tailândia com a Camino e foi incrível! Tudo perfeito, desde o roteiro até os hotéis."</p>
+                    <div class="client-name">Mariana Silva</div>
+                    <div class="client-location">São Paulo, Brasil</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção 4: Newsletter -->
+    <section id="newsletter" class="newsletter">
+        <div class="container">
+            <div class="section-title">
+                <h2>Receba Ofertas Exclusivas</h2>
+                <p>Cadastre-se e seja o primeiro a saber sobre nossas promoções</p>
+            </div>
+            
+            <form class="newsletter-form">
+                <input type="email" placeholder="Digite seu melhor e-mail" required>
+                <button type="submit" class="btn">Inscrever-se</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <div id="footer-container"></div>
+
+    <!-- Scripts -->
+    <script src="common.js"></script>
+    <script>
+        // Carregar header e footer
+        document.addEventListener("DOMContentLoaded", () => {
+            loadComponent("header-container", "header.html")
+                .then(() => initializeHeader());
+            
+            loadComponent("footer-container", "footer.html");
+            
+            // Carregar destinos
+            loadDestinos();
+        });
+
+        // Função para carregar destinos
+        async function loadDestinos() {
+            try {
+                const response = await fetch("destinos.json");
+                const data = await response.json();
+                const container = document.getElementById("destinations-container");
+
+                data.continentes.forEach((continente, index) => {
+                    const card = document.createElement("div");
+                    card.className = `destination-card fade-in delay-${index % 3}`;
+                    
+                    card.innerHTML = `
+                        <a href="continente.html?continente=${continente.slug}">
+                            <div class="destination-img" style="background-image: url('${continente.imagem}');"></div>
+                        </a>
+                        <div class="destination-info">
+                            <h3><a href="continente.html?continente=${continente.slug}">${continente.nome}</a></h3>
+                            <p>${continente.descricao}</p>
+                            <div class="card-actions">
+                                <a href="continente.html?continente=${continente.slug}" class="btn btn-plano">
+                                    Explorar Destinos
+                                </a>
+                                <a href="https://wa.me/573125493738?text=Olá! Gostaria de informações sobre pacotes para ${encodeURIComponent(continente.nome)}" 
+                                   class="btn btn-whatsapp" target="_blank">
+                                    <i class="fab fa-whatsapp"></i> Solicitar Orçamento
+                                </a>
+                            </div>
+                        </div>
+                    `;
+                    
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error("Erro ao carregar destinos:", error);
+                document.getElementById("destinations-container").innerHTML = 
+                    '<p class="error">Erro ao carregar destinos. Tente novamente.</p>';
+            }
+        }
+    </script>
+</body>
+</html>
