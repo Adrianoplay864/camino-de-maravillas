@@ -57,7 +57,7 @@ nav {
 .logo {
   display: flex;
   align-items: center;
-  font-size: 5px;
+  font-size: px;
   font-weight: 700;
   color: var(--primary);
   text-decoration: none;
