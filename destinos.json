@@ -13,7 +13,8 @@
           "descricao": "<strong>Válido até março de 2026</strong><br>Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
           "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
           "duracao": "7 dias",
-          "preco": "USD 860"
+          "preco": "USD 860",
+          "itinerario": "<strong>Dia 1</strong>: Chegada em Joanesburgo<br>Recepção no aeroporto e traslado para o hotel.<br>Tarde livre para descanso.<br>Jantar no hotel.<br><br><strong>Dia 2</strong>: Joanesburgo para Parque Kruger<br>Café da manhã no hotel.<br>Voo para o Parque Nacional Kruger.<br>Safari à tarde.<br>Jantar e pernoite no lodge.<br><br><strong>Dia 3</strong>: Safari no Kruger<br>Café da manhã no lodge.<br>Safari de dia inteiro no parque.<br>Almoço picnic no parque.<br>Jantar no lodge."
         },
         {
           "id": 20,

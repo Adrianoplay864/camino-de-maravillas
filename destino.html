@@ -172,6 +172,7 @@
       }
 
       // Função para mostrar modal com detalhes do pacote
+      // Função para mostrar modal com detalhes do pacote
       function showModalPacote(pacote, destino) {
         const modal = document.createElement("div");
         modal.className = "modal-overlay";
@@ -180,89 +181,101 @@
         const hasSaidas = pacote.saidas && pacote.saidas.length > 0;
         const hasRoteiro = pacote.roteiro;
         const hasDestaques = pacote.destaques && pacote.destaques.length > 0;
+        const hasItinerario = pacote.itinerario;
 
         modal.innerHTML = `
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h2>${pacote.nome}</h2>
-                        <button class="modal-close">&times;</button>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>${pacote.nome}</h2>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-imagem" style="background-image: url('${
+                  pacote.imagem
+                }');"></div>
+                <div class="modal-details">
+                    <div class="descricao-completa">${pacote.descricao}</div>
+                    
+                    <div class="detalhes-grid">
+                        <div class="detalhe-box">
+                            <h4><i class="far fa-calendar"></i> Duração</h4>
+                            <p>${pacote.duracao}</p>
+                        </div>
+                        <div class="detalhe-box">
+                            <h4><i class="fas fa-dollar-sign"></i> Preço</h4>
+                            <p>${pacote.preco}</p>
+                        </div>
+                        ${
+                          hasSaidas
+                            ? `
+                        <div class="detalhe-box">
+                            <h4><i class="fas fa-plane-departure"></i> Saídas</h4>
+                            <p>${
+                              Array.isArray(pacote.saidas)
+                                ? pacote.saidas.join("<br>")
+                                : pacote.saidas
+                            }</p>
+                        </div>
+                        `
+                            : ""
+                        }
+                        ${
+                          hasRoteiro
+                            ? `
+                        <div class="detalhe-box">
+                            <h4><i class="fas fa-map-marked-alt"></i> Roteiro</h4>
+                            <p>${pacote.roteiro}</p>
+                        </div>
+                        `
+                            : ""
+                        }
                     </div>
-                    <div class="modal-body">
-                        <div class="modal-imagem" style="background-image: url('${
-                          pacote.imagem
-                        }');"></div>
-                        <div class="modal-details">
-                            <div class="descricao-completa">${
-                              pacote.descricao
-                            }</div>
-                            
-                            <div class="detalhes-grid">
-                                <div class="detalhe-box">
-                                    <h4><i class="far fa-calendar"></i> Duração</h4>
-                                    <p>${pacote.duracao}</p>
-                                </div>
-                                <div class="detalhe-box">
-                                    <h4><i class="fas fa-dollar-sign"></i> Preço</h4>
-                                    <p>${pacote.preco}</p>
-                                </div>
-                                ${
-                                  hasSaidas
-                                    ? `
-                                <div class="detalhe-box">
-                                    <h4><i class="fas fa-plane-departure"></i> Saídas</h4>
-                                    <p>${
-                                      Array.isArray(pacote.saidas)
-                                        ? pacote.saidas.join("<br>")
-                                        : pacote.saidas
-                                    }</p>
-                                </div>
-                                `
-                                    : ""
-                                }
-                                ${
-                                  hasRoteiro
-                                    ? `
-                                <div class="detalhe-box">
-                                    <h4><i class="fas fa-map-marked-alt"></i> Roteiro</h4>
-                                    <p>${pacote.roteiro}</p>
-                                </div>
-                                `
-                                    : ""
-                                }
-                            </div>
-                            
-                            ${
-                              hasDestaques
-                                ? `
-                            <div class="destaques-box">
-                                <h4><i class="fas fa-star"></i> Destaques do Pacote</h4>
-                                <ul class="destaques-list">
-                                    ${pacote.destaques
-                                      .map((item) => `<li>${item}</li>`)
-                                      .join("")}
-                                </ul>
-                            </div>
-                            `
-                                : ""
-                            }
-                            
-                            <div class="modal-actions">
-                                <button class="btn btn-secondary close-modal">
-                                    <i class="fas fa-times"></i> Fechar
-                                </button>
-                                <a href="https://wa.me/573125493738?text=Olá! Gostaria de reservar o pacote ${encodeURIComponent(
-                                  pacote.nome
-                                )} (${pacote.preco}) para ${encodeURIComponent(
-          destino.nome
-        )}" 
-                                   class="btn btn-whatsapp" target="_blank">
-                                    <i class="fab fa-whatsapp"></i> Reservar Agora
-                                </a>
-                            </div>
+                    
+                    ${
+                      hasItinerario
+                        ? `
+                    <div class="itinerario-box">
+                        <h4><i class="fas fa-route"></i> Itinerário Detalhado</h4>
+                        <div class="itinerario-content">
+                            ${formatItinerario(pacote.itinerario)}
                         </div>
                     </div>
+                    `
+                        : ""
+                    }
+                    
+                    ${
+                      hasDestaques
+                        ? `
+                    <div class="destaques-box">
+                        <h4><i class="fas fa-star"></i> Destaques do Pacote</h4>
+                        <ul class="destaques-list">
+                            ${pacote.destaques
+                              .map((item) => `<li>${item}</li>`)
+                              .join("")}
+                        </ul>
+                    </div>
+                    `
+                        : ""
+                    }
+                    
+                    <div class="modal-actions">
+                        <button class="btn btn-secondary close-modal">
+                            <i class="fas fa-times"></i> Fechar
+                        </button>
+                        <a href="https://wa.me/573125493738?text=Olá! Gostaria de reservar o pacote ${encodeURIComponent(
+                          pacote.nome
+                        )} (${pacote.preco}) para ${encodeURIComponent(
+          destino.nome
+        )}" 
+                           class="btn btn-whatsapp" target="_blank">
+                            <i class="fab fa-whatsapp"></i> Reservar Agora
+                        </a>
+                    </div>
                 </div>
-            `;
+            </div>
+        </div>
+    `;
 
         document.body.appendChild(modal);
 
@@ -276,6 +289,66 @@
         modal.addEventListener("click", (e) => {
           if (e.target === modal) modal.remove();
         });
+      }
+
+      // Função para formatar o itinerário
+      function formatItinerario(itinerario) {
+        // Dividir por quebras de linha
+        const parts = itinerario.split("<br>");
+        let formattedHTML = '<div class="itinerario-dias">';
+
+        let currentDay = null;
+        let dayContent = [];
+
+        parts.forEach((part, index) => {
+          const trimmedPart = part.trim();
+          if (!trimmedPart) return;
+
+          // Verificar se é um novo dia (começa com "Dia", "dia", "Day", ou contém número seguido de ":")
+          const isNewDay =
+            /^(Dia|dia|Day|DAY)\s*\d+/i.test(trimmedPart) ||
+            /^\d+\./i.test(trimmedPart) ||
+            /^\d+\s*:/i.test(trimmedPart);
+
+          if (isNewDay) {
+            // Se já temos conteúdo de um dia anterior, adicioná-lo
+            if (currentDay !== null) {
+              formattedHTML += `
+                    <div class="dia-item">
+                        <div class="dia-header">${currentDay}</div>
+                        <div class="dia-conteudo">${dayContent.join(
+                          "<br>"
+                        )}</div>
+                    </div>
+                `;
+            }
+
+            // Começar novo dia
+            currentDay = trimmedPart;
+            dayContent = [];
+          } else {
+            // Adicionar conteúdo ao dia atual
+            if (currentDay !== null) {
+              dayContent.push(trimmedPart);
+            } else {
+              // Se não tiver um dia definido ainda, criar um genérico
+              currentDay = "Itinerário";
+              dayContent.push(trimmedPart);
+            }
+          }
+        });
+
+        // Adicionar o último dia
+        if (currentDay !== null && dayContent.length > 0) {
+          formattedHTML += `
+            <div class="dia-item">
+                <div class="dia-conteudo">${dayContent.join("<br>")}</div>
+            </div>
+        `;
+        }
+
+        formattedHTML += "</div>";
+        return formattedHTML;
       }
     </script>
   </body>
