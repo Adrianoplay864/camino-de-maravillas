@@ -12,7 +12,7 @@
           "nome": "Safari Sul-Africano",
           "descricao": "<strong>Válido até março de 2026</strong><br>Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
           "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 860"
         },
         {
@@ -20,7 +20,7 @@
           "nome": "A Grande Aventura da África do Sul",
           "descricao": "<strong>Válido até março de 2026</strong><br>Joanesburgo - Reserva Privada (Área de Kruger) - Cidade do Cabo",
           "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 1.505"
         },
         {
@@ -28,7 +28,7 @@
           "nome": "África do Sul Espetacular",
           "descricao": "<strong>Válido até dezembro de 2025</strong><br>Joanesburgo - Reserva Privada (Área Kruger) - Cidade do Cabo",
           "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 1.485"
         },
         {
@@ -36,7 +36,7 @@
           "nome": "Maravilhas da África do Sul",
           "descricao": "<strong>Válido até dezembro de 2025</strong><br>Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
           "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 790"
         }
       ]
@@ -53,7 +53,7 @@
           "nome": "Quênia em Essência",
           "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "6 dias / 5 noites",
+          "duracao": "6 dias",
           "preco": "USD 2.125"
         },
         {
@@ -61,7 +61,7 @@
           "nome": "Breve Quênia",
           "descricao": "<strong>Válido até dezembro de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?q=80&w=872&auto=format&fit=crop",
-          "duracao": "6 dias / 5 noites",
+          "duracao": "6 dias",
           "preco": "USD 2.065"
         },
         {
@@ -69,7 +69,7 @@
           "nome": "Tanzânia Essencial",
           "descricao": "<strong>Válido até dezembro de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=868&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 3.265"
         },
         {
@@ -77,7 +77,7 @@
           "nome": "Descobrindo Tanzânia e Quênia",
           "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=871&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 5.180"
         },
         {
@@ -85,7 +85,7 @@
           "nome": "Quênia em Essência e Zimbábue",
           "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=872&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 2.935"
         },
         {
@@ -93,7 +93,7 @@
           "nome": "Quênia em Essência e Uganda",
           "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1564574662336-88c9f5a6c8d8?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 3.895"
         }
       ]
@@ -199,7 +199,7 @@
           "nome": "Camboja Clássico",
           "descricao": "<strong>Válido até março de 2026</strong><br>Siem Reap - Angkor Thom - Angkor Wat - Banteay Samre - Banteay Srei",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "4 dias / 3 noites",
+          "duracao": "4 dias",
           "preco": "USD 766"
         }
       ]
@@ -224,7 +224,7 @@
           "nome": "Paraísos da China",
           "descricao": "<strong>Válido até março de 2026</strong><br>Beijing - Xi'an - Guilin - Hangzhou - Suzhou - Shanghai",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "13 dias / 12 noites",
+          "duracao": "13 dias",
           "preco": "USD 3.095"
         },
         {
@@ -232,7 +232,7 @@
           "nome": "China Clássica",
           "descricao": "<strong>Válido até março de 2026</strong><br>Beijing - Xi'an - Shanghai",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 1.865"
         }
       ]
@@ -257,7 +257,7 @@
           "nome": "Coreia do Sul",
           "descricao": "<strong>Válido até março de 2026</strong><br>Seul - Cheongju - Gyeongju",
           "imagem": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?q=80&w=870&auto=format&fit=crop",
-          "duracao": "6 dias / 5 noites",
+          "duracao": "6 dias",
           "preco": "USD 3.140"
         },
         {
@@ -265,7 +265,7 @@
           "nome": "Imagens da Coreia",
           "descricao": "<strong>Válido até março de 2026</strong><br>Seul - DMZ - Andong - Gyeongju - Busan",
           "imagem": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 4.900"
         }
       ]
@@ -298,7 +298,7 @@
           "nome": "Egito Inesquecível",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides de Gizé - Museu Egípcio - Cruzeiro pelo Nilo - Luxor - Karnak",
           "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 941"
         },
         {
@@ -306,7 +306,7 @@
           "nome": "Egito Antigo com Abu Simbel",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro pelo Nilo",
           "imagem": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 1.481"
         },
         {
@@ -314,7 +314,7 @@
           "nome": "Egito Tradicional",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides - Esfinge - Museu Egípcio - Bazar Khan el-Khalili",
           "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 885"
         },
         {
@@ -322,7 +322,7 @@
           "nome": "Cairo",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides de Gizé - Esfinge - Museu Egípcio - Cidadela",
           "imagem": "https://images.unsplash.com/photo-1597212617740-d5f4abf26300?q=80&w=1032&auto=format&fit=crop",
-          "duracao": "4 dias / 3 noites",
+          "duracao": "4 dias",
           "preco": "USD 319"
         },
         {
@@ -330,7 +330,7 @@
           "nome": "Egito Espetacular e Lago Nasser",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro Lago Nasser",
           "imagem": "https://images.unsplash.com/photo-1536657464919-892534f60d6e?q=80&w=872&auto=format&fit=crop",
-          "duracao": "12 dias / 11 noites",
+          "duracao": "12 dias",
           "preco": "USD 1.868"
         }
       ]
@@ -355,7 +355,7 @@
           "nome": "Oktoberfest",
           "descricao": "<strong>Válido até outubro de 2026</strong><br>Munique",
           "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
-          "duracao": "3 dias / 2 noites",
+          "duracao": "3 dias",
           "preco": "€ 915"
         },
         {
@@ -363,7 +363,7 @@
           "nome": "Alemanha Romântica",
           "descricao": "<strong>Válido até dezembro de 2026</strong><br>Frankfurt - Heidelberg - Friburgo - Kempten - Munique - Nuremberg",
           "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "€ 1.435"
         }
       ]
@@ -380,7 +380,7 @@
           "nome": "Filipinas Paradisíaca",
           "descricao": "<strong>Válido de 01 de novembro de 2025 a outubro de 2026</strong><br>Manila - Boracay - El Nido",
           "imagem": "https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=869&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 1.575"
         }
       ]
@@ -421,7 +421,7 @@
           "nome": "Triângulo do Norte",
           "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra",
           "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 845"
         },
         {
@@ -437,7 +437,7 @@
           "nome": "Índia Espiritual",
           "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra - Varanasi",
           "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 1.880"
         },
         {
@@ -453,7 +453,7 @@
           "nome": "A Riqueza da Índia",
           "descricao": "<strong>Válido até março de 2026</strong><br>Bombaim - Udaipur - Jaipur - Agra - Delhi",
           "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 2.165"
         },
         {
@@ -461,7 +461,7 @@
           "nome": "Rajastão Especial",
           "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Udaipur - Jodhpur - Jaipur - Agra - Delhi",
           "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 2.040"
         },
         {
@@ -486,7 +486,7 @@
           "nome": "Descobrindo Bali e Gili",
           "descricao": "<strong>Válido até março de 2026</strong><br>Bali - Nusa Dua - Lovina - Candidasa - Ubud - Gili",
           "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 1.935"
         },
         {
@@ -494,7 +494,7 @@
           "nome": "Bali Clássico",
           "descricao": "<strong>Válido até outubro de 2026</strong><br>Denpasar - Ubud - Kuta - Tanah Lot",
           "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
-          "duracao": "5 dias / 4 noites",
+          "duracao": "5 dias",
           "preco": "USD 916"
         },
         {
@@ -502,7 +502,7 @@
           "nome": "Ubud e Sul de Bali",
           "descricao": "<strong>Válido até outubro de 2026</strong><br>Ubud - Seminyak - Uluwatu - Nusa Dua",
           "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
-          "duracao": "6 dias / 5 noites",
+          "duracao": "6 dias",
           "preco": "USD 1.195"
         },
         {
@@ -510,7 +510,7 @@
           "nome": "Indochina Express",
           "descricao": "<strong>Válido até março de 2026</strong><br>Laos - Vietnã - Camboja",
           "imagem": "https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=873&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 1.396"
         }
       ]
@@ -535,7 +535,7 @@
           "nome": "Banzai Japão",
           "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Osaka",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 3.297"
         },
         {
@@ -543,7 +543,7 @@
           "nome": "Japão Espiritual",
           "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Nagoya - Ise - Kumano - Koyasan",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "13 dias / 12 noites",
+          "duracao": "13 dias",
           "preco": "USD 4.595"
         },
         {
@@ -551,7 +551,7 @@
           "nome": "Tentações do Japão",
           "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 2.098"
         },
         {
@@ -559,7 +559,7 @@
           "nome": "Japão Completo",
           "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Osaka - Nara - Quioto - Magome - Tsumago - Takayama - Shirakawago - Nagoya - Hakone - Tóquio",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 3.607"
         },
         {
@@ -567,7 +567,7 @@
           "nome": "Japão Expresso",
           "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Osaka - Nara - Quioto - Hakone - Tóquio",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 2.790"
         }
       ]
@@ -584,7 +584,7 @@
           "nome": "Costa del Sol e Medinas Andaluzas",
           "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
           "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 1.220"
         },
         {
@@ -592,7 +592,7 @@
           "nome": "Marrocos: Cidades Imperiais",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Casablanca - Rabat - Tânger - Chefchaouen - Meknes - Fez - Ifrane - Beni Mellal - Marrakech",
           "imagem": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 790"
         },
         {
@@ -600,7 +600,7 @@
           "nome": "Marrocos: Cidades Imperiais e Casbás",
           "descricao": "<strong>Válido até abril de 2026</strong><br>Casablanca - Tânger - Fez - Erfoud - Ouarzazate - Marrakech",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 840"
         },
         {
@@ -608,7 +608,7 @@
           "nome": "Costa del Sol e Marrocos",
           "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Tânger - Tetuão - Chefchaouen - Casablanca - Marrakech - Fez",
           "imagem": "https://images.unsplash.com/photo-1570500708855-7c6c20d5c6f4?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 1.500"
         },
         {
@@ -616,7 +616,7 @@
           "nome": "Costa del Sol e o Grande Deserto",
           "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Casablanca - Marrakech - Ait Ben Haddou - Merzouga - Erfoud - Fez - Tânger",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "11 dias / 10 noites",
+          "duracao": "11 dias",
           "preco": "USD 1.730"
         },
         {
@@ -624,7 +624,7 @@
           "nome": "4x4 no Deserto entre Oásis e Dunas",
           "descricao": "<strong>Válido até fevereiro de 2026</strong><br>Marrakech - Ouarzazate - Boumalne de Dades - Merzouga - Zagora",
           "imagem": "https://images.unsplash.com/photo-1570500708855-7c6c20d5c6f4?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 1.435"
         },
         {
@@ -632,7 +632,7 @@
           "nome": "Entre Medinas e Dunas",
           "descricao": "<strong>Válido até fevereiro de 2026</strong><br>Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 995"
         }
       ]
@@ -697,7 +697,7 @@
           "nome": "Festival de Lanternas na Tailândia",
           "descricao": "<strong>Válido de 20 a 26 de novembro de 2026</strong><br>Bangkok - Chiang Mai - Festival de Luzes e Lanternas Loy Krathong",
           "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias / 6 noites",
+          "duracao": "7 dias",
           "preco": "USD 1.675"
         },
         {
@@ -705,7 +705,7 @@
           "nome": "Tailândia ao seu Alcance",
           "descricao": "<strong>Válido até março de 2026</strong><br>Bangkok - Phitsanulok - Chiang Rai - Chiang Mai",
           "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias / 7 noites",
+          "duracao": "8 dias",
           "preco": "USD 995"
         },
         {
@@ -713,7 +713,7 @@
           "nome": "Super Tailândia ao seu Alcance",
           "descricao": "<strong>Válido até março de 2026</strong><br>Bangkok - Kanchanaburi - Phitsanulok - Chiang Rai - Chiang Mai",
           "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 dias / 8 noites",
+          "duracao": "9 dias",
           "preco": "USD 1.255"
         }
       ]
@@ -746,7 +746,7 @@
           "nome": "Essência do Vietnã",
           "descricao": "<strong>Válido até março de 2026</strong><br>Hanói - Halong - Hoi An - Hue - Cidade de Ho Chi Minh",
           "imagem": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=870&auto=format&fit=crop",
-          "duracao": "10 dias / 9 noites",
+          "duracao": "10 dias",
           "preco": "USD 1.445"
         },
         {
