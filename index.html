@@ -166,7 +166,7 @@
       // Função para carregar destinos - ATUALIZADA
       async function loadDestinos() {
         try {
-          const response = await fetch("destinos.json");
+          const response = await fetch("./destinos.json");
           const data = await response.json();
           const container = document.getElementById("destinations-container");
 
