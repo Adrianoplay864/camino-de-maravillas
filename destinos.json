@@ -8,37 +8,36 @@
       "slug": "africa-do-sul",
       "pacotes": [
         {
-          "id": 19,
+          "id": 1019,
           "nome": "Safari Sul-Africano",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
-          "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
+          "descricao": "Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
+          "imagem": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=1471&auto=format&fit=crop",
           "duracao": "7 dias",
-          "preco": "USD 860",
-          "itinerario": "<strong>Dia 1</strong>: Chegada em Joanesburgo<br>Recepção no aeroporto e traslado para o hotel.<br>Tarde livre para descanso.<br>Jantar no hotel.<br><br><strong>Dia 2</strong>: Joanesburgo para Parque Kruger<br>Café da manhã no hotel.<br>Voo para o Parque Nacional Kruger.<br>Safari à tarde.<br>Jantar e pernoite no lodge.<br><br><strong>Dia 3</strong>: Safari no Kruger<br>Café da manhã no lodge.<br>Safari de dia inteiro no parque.<br>Almoço picnic no parque.<br>Jantar no lodge."
+          "preco": "USD 860"
         },
         {
-          "id": 20,
-          "nome": "A Grande Aventura da África do Sul",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Joanesburgo - Reserva Privada (Área de Kruger) - Cidade do Cabo",
-          "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
+          "id": 1020,
+          "nome": "Maravilhas da África do Sul",
+          "descricao": "Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
+          "imagem": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?q=80&w=725&auto=format&fit=crop",
           "duracao": "7 dias",
-          "preco": "USD 1.505"
+          "preco": "USD 790"
         },
         {
-          "id": 21,
+          "id": 1021,
           "nome": "África do Sul Espetacular",
-          "descricao": "<strong>Válido até dezembro de 2025</strong><br>Joanesburgo - Reserva Privada (Área Kruger) - Cidade do Cabo",
-          "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
+          "descricao": "Joanesburgo - Reserva Privada (Área Kruger) - Cidade do Cabo",
+          "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=1471&auto=format&fit=crop",
           "duracao": "7 dias",
           "preco": "USD 1.485"
         },
         {
-          "id": 22,
-          "nome": "Maravilhas da África do Sul",
-          "descricao": "<strong>Válido até dezembro de 2025</strong><br>Joanesburgo - Área do Parque Kruger - Cidade do Cabo",
-          "imagem": "https://images.unsplash.com/photo-1573843989-c9d9ad1e11b3?q=80&w=1032&auto=format&fit=crop",
+          "id": 1022,
+          "nome": "A Grande Aventura da África do Sul",
+          "descricao": "Joanesburgo - Reserva Privada (Área de Kruger) - Cidade do Cabo",
+          "imagem": "https://images.unsplash.com/photo-1578645510447-e68b3f12c30a?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 dias",
-          "preco": "USD 790"
+          "preco": "USD 1.505"
         }
       ]
     },
@@ -50,52 +49,52 @@
       "slug": "africa-oriental",
       "pacotes": [
         {
-          "id": 1,
-          "nome": "Quênia em Essência",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
-          "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "6 dias",
-          "preco": "USD 2.125"
-        },
-        {
-          "id": 2,
+          "id": 2001,
           "nome": "Breve Quênia",
-          "descricao": "<strong>Válido até dezembro de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
-          "imagem": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?q=80&w=872&auto=format&fit=crop",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "imagem": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?q=80&w=871&auto=format&fit=crop",
           "duracao": "6 dias",
           "preco": "USD 2.065"
         },
         {
-          "id": 3,
-          "nome": "Tanzânia Essencial",
-          "descricao": "<strong>Válido até dezembro de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
-          "imagem": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=868&auto=format&fit=crop",
-          "duracao": "7 dias",
-          "preco": "USD 3.265"
+          "id": 2002,
+          "nome": "Quênia em Essência",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "imagem": "https://images.unsplash.com/photo-1624493176575-7a5a3b74460a?q=80&w=928&auto=format&fit=crop",
+          "duracao": "6 dias",
+          "preco": "USD 2.125"
         },
         {
-          "id": 4,
-          "nome": "Descobrindo Tanzânia e Quênia",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
-          "imagem": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=871&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 5.180"
-        },
-        {
-          "id": 5,
+          "id": 2003,
           "nome": "Quênia em Essência e Zimbábue",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=872&auto=format&fit=crop",
           "duracao": "9 dias",
           "preco": "USD 2.935"
         },
         {
-          "id": 6,
+          "id": 2004,
           "nome": "Quênia em Essência e Uganda",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
           "imagem": "https://images.unsplash.com/photo-1564574662336-88c9f5a6c8d8?q=80&w=870&auto=format&fit=crop",
           "duracao": "9 dias",
           "preco": "USD 3.895"
+        },
+        {
+          "id": 2005,
+          "nome": "Tanzânia Essencial",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "imagem": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=868&auto=format&fit=crop",
+          "duracao": "7 dias",
+          "preco": "USD 3.265"
+        },
+        {
+          "id": 2006,
+          "nome": "Descobrindo Tanzânia e Quênia",
+          "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
+          "imagem": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=871&auto=format&fit=crop",
+          "duracao": "8 dias",
+          "preco": "USD 5.180"
         }
       ]
     },
@@ -113,7 +112,64 @@
       "descricao": "Pacotes para Buenos Aires, Patagônia, Mendoza e Bariloche",
       "imagem": "https://images.unsplash.com/photo-1612296727716-d6c69d5b7b3d?q=80&w=870&auto=format&fit=crop",
       "slug": "argentina",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 4001,
+          "nome": "BARILOCHE CLÁSICO",
+          "descricao": "Bariloche",
+          "imagem": "https://images.unsplash.com/photo-1617548437735-92d875423353?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 dias",
+          "preco": "USD 212"
+        },
+        {
+          "id": 4002,
+          "nome": "BUENOS AIRES CLÁSICO",
+          "descricao": "Buenos Aires",
+          "imagem": "https://plus.unsplash.com/premium_photo-1697730017665-ccfeedffbefa?q=80&w=871&auto=format&fit=crop",
+          "duracao": "3 dias",
+          "preco": "USD 355"
+        },
+        {
+          "id": 4003,
+          "nome": "IGUAZÚ FULL",
+          "descricao": "Iguazú",
+          "imagem": "https://images.unsplash.com/photo-1657386364330-bd89e99cb65c?q=80&w=1010&auto=format&fit=crop",
+          "duracao": "4 dias",
+          "preco": "USD 415"
+        },
+        {
+          "id": 4004,
+          "nome": "CRUCE DE LAGOS",
+          "descricao": "Buenos Aires – Santiago",
+          "imagem": "https://images.unsplash.com/photo-1566737232441-d9b8d3d5e6c9?q=80&w=871&auto=format&fit=crop",
+          "duracao": "6 dias",
+          "preco": "USD 1.541"
+        },
+        {
+          "id": 4005,
+          "nome": "PATAGONIA EXPRESS",
+          "descricao": "Buenos Aires / Buenos Aires",
+          "imagem": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 dias",
+          "preco": "USD 1.572"
+        },
+        {
+          "id": 4006,
+          "nome": "PAISAJES Y SABORES DE ARGENTINA",
+          "descricao": "Buenos Aires / Buenos Aires",
+          "imagem": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 dias",
+          "preco": "USD 2.173"
+        },
+        {
+          "id": 4007,
+          "nome": "BUENOS AIRES-BARILOCHE MENDOZA-IGUAZÚ",
+          "descricao": "Buenos Aires / Buenos Aires",
+          "imagem": "https://images.unsplash.com/photo-1536152471326-642d74f4d83d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 dias",
+          "preco": "USD 2.994"
+        }
+      ]
     },
     {
       "id": 5,
@@ -121,7 +177,24 @@
       "descricao": "Pacotes para praias, mergulho e turismo de luxo",
       "imagem": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?q=80&w=870&auto=format&fit=crop",
       "slug": "aruba",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 5001,
+          "nome": "Aruba Clásica",
+          "descricao": "Aruba",
+          "imagem": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 651"
+        },
+        {
+          "id": 5002,
+          "nome": "Edición Verano – Aruba Inolvidable",
+          "descricao": "Aruba",
+          "imagem": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 1436"
+        }
+      ]
     },
     {
       "id": 6,
@@ -137,7 +210,40 @@
       "descricao": "Pacotes para Salar de Uyuni, La Paz, Lago Titicaca",
       "imagem": "https://images.unsplash.com/photo-1584551245615-8d5ab0c5c4c0?q=80&w=870&auto=format&fit=crop",
       "slug": "bolivia",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 7001,
+          "nome": "Bolivia Express",
+          "descricao": "La Paz / La Paz",
+          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 623"
+        },
+        {
+          "id": 7002,
+          "nome": "Bolivia Clásico",
+          "descricao": "La Paz / La Paz",
+          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 715"
+        },
+        {
+          "id": 7003,
+          "nome": "Lo Mejor de Bolivia",
+          "descricao": "La Paz / La Paz",
+          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1791"
+        },
+        {
+          "id": 7004,
+          "nome": "Todo Bolivia",
+          "descricao": "Santa Cruz / Santa Cruz",
+          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "duracao": "11 DÍAS",
+          "preco": "USD 2246"
+        }
+      ]
     },
     {
       "id": 8,
@@ -147,44 +253,84 @@
       "slug": "brasil",
       "pacotes": [
         {
-          "id": 128,
-          "nome": "Brasil clásico",
-          "descricao": "<strong>Vigencia: diciembre 2026</strong><br>Río de Janeiro, Foz Do Iguaçu, Salvador Da Bahía",
+          "id": 8001,
+          "nome": "Río Básico",
+          "descricao": "Río de Janeiro",
           "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 días",
-          "preco": "USD 835"
+          "duracao": "4 días",
+          "preco": "USD 397"
         },
         {
-          "id": 129,
-          "nome": "Descubre São Paulo",
-          "descricao": "<strong>Vigencia: diciembre 2026</strong><br>São Paulo",
+          "id": 8002,
+          "nome": "Ellas en Río de Janeiro",
+          "descricao": "Río de Janeiro",
           "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=870&auto=format&fit=crop",
-          "duracao": "3 días",
-          "preco": "USD 470"
+          "duracao": "5 días",
+          "preco": "USD 771"
         },
         {
-          "id": 130,
-          "nome": "Salvador de Bahía Inolvidable",
-          "descricao": "<strong>Vigencia: diciembre 2026</strong><br>Salvador de Bahía",
+          "id": 8003,
+          "nome": "Lo Mejor de Río y Búzios",
+          "descricao": "Búzios / Río de Janeiro",
           "imagem": "https://images.unsplash.com/photo-1591133150053-718d8cffc3b3?q=80&w=870&auto=format&fit=crop",
-          "duracao": "4 días",
-          "preco": "USD 305"
-        },
-        {
-          "id": 131,
-          "nome": "Río de Janeiro",
-          "descricao": "<strong>Vigencia: diciembre 2026</strong><br>Rio de Janeiro",
-          "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=870&auto=format&fit=crop",
-          "duracao": "4 días",
-          "preco": "USD 405"
-        },
-        {
-          "id": 132,
-          "nome": "Encantos de Río y Maravillas de Iguazú",
-          "descricao": "<strong>Vigencia: diciembre 2026</strong><br>Río de Janeiro e Iguazú",
-          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
           "duracao": "6 días",
-          "preco": "USD 705"
+          "preco": "USD 564"
+        },
+        {
+          "id": 8004,
+          "nome": "Maravillas de Brasil Básico",
+          "descricao": "Río de Janeiro / Foz de Iguazú",
+          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 días",
+          "preco": "USD 693"
+        },
+        {
+          "id": 8005,
+          "nome": "Lo Mejor de Río y Paraty",
+          "descricao": "Paraty / Río de Janeiro",
+          "imagem": "https://images.unsplash.com/photo-1591133150053-718d8cffc3b3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 días",
+          "preco": "USD 724"
+        },
+        {
+          "id": 8006,
+          "nome": "Brasil Clásico",
+          "descricao": "Río de Janeiro / Salvador",
+          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 días",
+          "preco": "USD 845"
+        },
+        {
+          "id": 8007,
+          "nome": "São - Foz de Iguazú - Río",
+          "descricao": "Sao Paulo / Rio de Janeiro",
+          "imagem": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 días",
+          "preco": "USD 1062"
+        },
+        {
+          "id": 8008,
+          "nome": "Maravillas de Brasil",
+          "descricao": "Río de Janeiro / Manaos",
+          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 días",
+          "preco": "USD 1593"
+        },
+        {
+          "id": 8009,
+          "nome": "Sao - Manaos - Selva Amazonica - Rio",
+          "descricao": "Sao Paulo / Río de Janeiro",
+          "imagem": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 días",
+          "preco": "USD 1652"
+        },
+        {
+          "id": 8010,
+          "nome": "Lo Mejor de Brasil",
+          "descricao": "Río de Janeiro / Salvador",
+          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 días",
+          "preco": "USD 1742"
         }
       ]
     },
@@ -196,9 +342,9 @@
       "slug": "camboja",
       "pacotes": [
         {
-          "id": 23,
+          "id": 9001,
           "nome": "Camboja Clássico",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Siem Reap - Angkor Thom - Angkor Wat - Banteay Samre - Banteay Srei",
+          "descricao": "Siem Reap - Angkor Thom - Angkor Wat - Banteay Samre - Banteay Srei",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
           "duracao": "4 dias",
           "preco": "USD 766"
@@ -211,7 +357,72 @@
       "descricao": "Pacotes para Toronto, Vancouver, Montreal, Cataratas do Niágara",
       "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=871&auto=format&fit=crop",
       "slug": "canada",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 10001,
+          "nome": "Fantasías del Niágara",
+          "descricao": "New York – Canadá – New York",
+          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 1247"
+        },
+        {
+          "id": 10002,
+          "nome": "Alto y Bajo Canadá",
+          "descricao": "Toronto/Montreal",
+          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "duracao": "07 DÍAS",
+          "preco": "USD 1578"
+        },
+        {
+          "id": 10003,
+          "nome": "Canadá Expreso",
+          "descricao": "New York – Canadá – New York",
+          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 1820"
+        },
+        {
+          "id": 10004,
+          "nome": "Canadá Magnífico",
+          "descricao": "New York – Canadá – New York",
+          "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 DÍAS",
+          "preco": "USD 2256"
+        },
+        {
+          "id": 10005,
+          "nome": "Ciudades Históricas del Este de Canadá",
+          "descricao": "Toronto / Montreal",
+          "imagem": "https://images.unsplash.com/photo-1534231140127-50e4b789c7d3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 2453"
+        },
+        {
+          "id": 10006,
+          "nome": "Quebec Salvaje",
+          "descricao": "Montreal",
+          "imagem": "https://images.unsplash.com/photo-1534231140127-50e4b789c7d3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 3083"
+        },
+        {
+          "id": 10007,
+          "nome": "Canadá Salvaje",
+          "descricao": "Toronto – Montreal",
+          "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 DÍAS",
+          "preco": "USD 3360"
+        },
+        {
+          "id": 10008,
+          "nome": "Maravillas de las Rocosas Canadienses",
+          "descricao": "Calgary / Vancouver",
+          "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 4799"
+        }
+      ]
     },
     {
       "id": 11,
@@ -221,20 +432,20 @@
       "slug": "china",
       "pacotes": [
         {
-          "id": 26,
-          "nome": "Paraísos da China",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Beijing - Xi'an - Guilin - Hangzhou - Suzhou - Shanghai",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "13 dias",
-          "preco": "USD 3.095"
-        },
-        {
-          "id": 27,
+          "id": 11001,
           "nome": "China Clássica",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Beijing - Xi'an - Shanghai",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Beijing - Xi'an - Shanghai",
+          "imagem": "https://images.unsplash.com/photo-1547981609-4b6bf67b7d46?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 dias",
           "preco": "USD 1.865"
+        },
+        {
+          "id": 11002,
+          "nome": "Paraísos da China",
+          "descricao": "Beijing - Xi'an - Guilin - Hangzhou - Suzhou - Shanghai",
+          "imagem": "https://images.unsplash.com/photo-1510674485131-dc88d96369b4?q=80&w=949&auto=format&fit=crop",
+          "duracao": "13 dias",
+          "preco": "USD 3.095"
         }
       ]
     },
@@ -254,18 +465,18 @@
       "slug": "coreia-do-sul",
       "pacotes": [
         {
-          "id": 24,
+          "id": 13001,
           "nome": "Coreia do Sul",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Seul - Cheongju - Gyeongju",
-          "imagem": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Seul - Cheongju - Gyeongju",
+          "imagem": "https://images.unsplash.com/photo-1506816561089-5cc37b3aa9b0?q=80&w=870&auto=format&fit=crop",
           "duracao": "6 dias",
           "preco": "USD 3.140"
         },
         {
-          "id": 25,
+          "id": 13002,
           "nome": "Imagens da Coreia",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Seul - DMZ - Andong - Gyeongju - Busan",
-          "imagem": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Seul - DMZ - Andong - Gyeongju - Busan",
+          "imagem": "https://images.unsplash.com/photo-1534270804882-6b5048b1c1fc?q=80&w=870&auto=format&fit=crop",
           "duracao": "9 dias",
           "preco": "USD 4.900"
         }
@@ -277,7 +488,32 @@
       "descricao": "Pacotes para ecoturismo, praias, vulcões e biodiversidade",
       "imagem": "https://images.unsplash.com/photo-1531018400349-5c7d7a8d7b3d?q=80&w=1031&auto=format&fit=crop",
       "slug": "costa-rica",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 14001,
+          "nome": "Costa Rica Pura Vida",
+          "descricao": "San Jose / Manuel Antonio",
+          "imagem": "https://images.unsplash.com/photo-1536700503339-1f58a8e89d28?q=80&w=870&auto=format&fit=crop",
+          "duracao": "",
+          "preco": "USD 1464"
+        },
+        {
+          "id": 14002,
+          "nome": "Costa Rica 3 Esenciales",
+          "descricao": "San José / Manuel Antonio",
+          "imagem": "https://images.unsplash.com/photo-1536700503339-1f58a8e89d28?q=80&w=870&auto=format&fit=crop",
+          "duracao": "",
+          "preco": "USD 1756"
+        },
+        {
+          "id": 14003,
+          "nome": "Escapada de Lujo en Costa Rica",
+          "descricao": "San José",
+          "imagem": "https://images.unsplash.com/photo-1536700503339-1f58a8e89d28?q=80&w=870&auto=format&fit=crop",
+          "duracao": "",
+          "preco": "USD 4961"
+        }
+      ]
     },
     {
       "id": 15,
@@ -285,7 +521,40 @@
       "descricao": "Pacotes para arranha-céus, compras, desertos e luxo",
       "imagem": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=870&auto=format&fit=crop",
       "slug": "dubai",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 15001,
+          "nome": "Súper Dubái",
+          "descricao": "Dubái",
+          "imagem": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 Días",
+          "preco": "USD 270"
+        },
+        {
+          "id": 15002,
+          "nome": "Dubái Clásico",
+          "descricao": "Dubái",
+          "imagem": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 Días",
+          "preco": "USD 344"
+        },
+        {
+          "id": 15003,
+          "nome": "Dubái Maravilloso",
+          "descricao": "Dubái",
+          "imagem": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 Días",
+          "preco": "USD 481"
+        },
+        {
+          "id": 15004,
+          "nome": "Aventura en Dubái",
+          "descricao": "Dubái",
+          "imagem": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 Días",
+          "preco": "USD 1433"
+        }
+      ]
     },
     {
       "id": 16,
@@ -295,44 +564,77 @@
       "slug": "egito",
       "pacotes": [
         {
-          "id": 7,
-          "nome": "Egito Inesquecível",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides de Gizé - Museu Egípcio - Cruzeiro pelo Nilo - Luxor - Karnak",
-          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 941"
-        },
-        {
-          "id": 8,
-          "nome": "Egito Antigo com Abu Simbel",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro pelo Nilo",
+          "id": 16001,
+          "nome": "El Cairo",
+          "descricao": "El Cairo",
           "imagem": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 1.481"
+          "duracao": "4 días",
+          "preco": "USD 295"
         },
         {
-          "id": 9,
-          "nome": "Egito Tradicional",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides - Esfinge - Museu Egípcio - Bazar Khan el-Khalili",
-          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 885"
-        },
-        {
-          "id": 10,
+          "id": 16002,
           "nome": "Cairo",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Pirâmides de Gizé - Esfinge - Museu Egípcio - Cidadela",
+          "descricao": "Cairo - Pirâmides de Gizé - Esfinge - Museu Egípcio - Cidadela",
           "imagem": "https://images.unsplash.com/photo-1597212617740-d5f4abf26300?q=80&w=1032&auto=format&fit=crop",
           "duracao": "4 dias",
           "preco": "USD 319"
         },
         {
-          "id": 11,
+          "id": 16003,
+          "nome": "Egito Tradicional",
+          "descricao": "Cairo - Pirâmides - Esfinge - Museu Egípcio - Bazar Khan el-Khalili",
+          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 dias",
+          "preco": "USD 885"
+        },
+        {
+          "id": 16004,
+          "nome": "Egito Inesquecível",
+          "descricao": "Cairo - Pirâmides de Gizé - Museu Egípcio - Cruzeiro pelo Nilo - Luxor - Karnak",
+          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 dias",
+          "preco": "USD 941"
+        },
+        {
+          "id": 16005,
+          "nome": "Circuito Egipto Clásico 1",
+          "descricao": "El Cairo / Crucero por el Nilo / El Cairo",
+          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 días",
+          "preco": "USD 1169"
+        },
+        {
+          "id": 16006,
+          "nome": "Egito Antigo com Abu Simbel",
+          "descricao": "Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro pelo Nilo",
+          "imagem": "https://images.unsplash.com/photo-1564507004663-b6dfb3e2ede5?q=80&w=1032&auto=format&fit=crop",
+          "duracao": "8 dias",
+          "preco": "USD 1.481"
+        },
+        {
+          "id": 16007,
+          "nome": "Circuito Egipto Clásico 2×1",
+          "descricao": "El Cairo / Crucero por el Nilo / El Cairo",
+          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 días",
+          "preco": "USD 1623",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 16008,
           "nome": "Egito Espetacular e Lago Nasser",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro Lago Nasser",
+          "descricao": "Cairo - Luxor - Assuã - Abu Simbel - Cruzeiro Lago Nasser",
           "imagem": "https://images.unsplash.com/photo-1536657464919-892534f60d6e?q=80&w=872&auto=format&fit=crop",
           "duracao": "12 dias",
           "preco": "USD 1.868"
+        },
+        {
+          "id": 16009,
+          "nome": "Ruta de Moisés",
+          "descricao": "El Cairo – Tel Aviv",
+          "imagem": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?q=80&w=870&auto=format&fit=crop",
+          "duracao": "18 días",
+          "preco": "USD 3338"
         }
       ]
     },
@@ -342,7 +644,104 @@
       "descricao": "Pacotes para Costa Oeste, Costa Leste, Orlando, Miami",
       "imagem": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?q=80&w=1032&auto=format&fit=crop",
       "slug": "estados-unidos",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 17001,
+          "nome": "Rapid City",
+          "descricao": "Rapid City",
+          "imagem": "https://images.unsplash.com/photo-1587734195503-904137cec4a6?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 716"
+        },
+        {
+          "id": 17002,
+          "nome": "Salt Lake City",
+          "descricao": "Salt Lake City",
+          "imagem": "https://images.unsplash.com/photo-1587734195503-904137cec4a6?q=80&w=870&auto=format&fit=crop",
+          "duracao": "04 DÍAS",
+          "preco": "USD 858"
+        },
+        {
+          "id": 17003,
+          "nome": "Nueva York",
+          "descricao": "New York",
+          "imagem": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 961"
+        },
+        {
+          "id": 17004,
+          "nome": "Chicago",
+          "descricao": "Chicago",
+          "imagem": "https://images.unsplash.com/photo-1494522358652-c549345d2c9e?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 1100"
+        },
+        {
+          "id": 17005,
+          "nome": "Colorado",
+          "descricao": "Colorado",
+          "imagem": "https://images.unsplash.com/photo-1587734195503-904137cec4a6?q=80&w=870&auto=format&fit=crop",
+          "duracao": "05 DÍAS",
+          "preco": "USD 1369"
+        },
+        {
+          "id": 17006,
+          "nome": "Año Nuevo en New York",
+          "descricao": "New York",
+          "imagem": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6, 7 u 8 DÍAS",
+          "preco": "USD 1482"
+        },
+        {
+          "id": 17007,
+          "nome": "Triángulo del Este",
+          "descricao": "New York",
+          "imagem": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 1700"
+        },
+        {
+          "id": 17008,
+          "nome": "Oeste Legendario",
+          "descricao": "Los Ángeles",
+          "imagem": "https://images.unsplash.com/photo-1515896769750-31548aa180ed?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1945"
+        },
+        {
+          "id": 17009,
+          "nome": "Herencia Americana",
+          "descricao": "Washington / New York",
+          "imagem": "https://images.unsplash.com/photo-1506970845872-504d6b2d49e8?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 2101"
+        },
+        {
+          "id": 17010,
+          "nome": "Joyas del Este con Nueva York",
+          "descricao": "New York / New York",
+          "imagem": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 DÍAS",
+          "preco": "USD 2326"
+        },
+        {
+          "id": 17011,
+          "nome": "Oeste Clásico con LAX",
+          "descricao": "San Francisco / Los Angeles",
+          "imagem": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?q=80&w=870&auto=format&fit=crop",
+          "duracao": "09 DÍAS",
+          "preco": "USD 2366"
+        },
+        {
+          "id": 17012,
+          "nome": "Oeste Completo",
+          "descricao": "Los Angeles / Los Angeles",
+          "imagem": "https://images.unsplash.com/photo-1515896769750-31548aa180ed?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 2475"
+        }
+      ]
     },
     {
       "id": 18,
@@ -352,20 +751,52 @@
       "slug": "europa",
       "pacotes": [
         {
-          "id": 86,
+          "id": 18001,
           "nome": "Oktoberfest",
-          "descricao": "<strong>Válido até outubro de 2026</strong><br>Munique",
+          "descricao": "Munique",
           "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
           "duracao": "3 dias",
           "preco": "€ 915"
         },
         {
-          "id": 87,
+          "id": 18002,
           "nome": "Alemanha Romântica",
-          "descricao": "<strong>Válido até dezembro de 2026</strong><br>Frankfurt - Heidelberg - Friburgo - Kempten - Munique - Nuremberg",
-          "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Frankfurt - Heidelberg - Friburgo - Kempten - Munique - Nuremberg",
+          "imagem": "https://images.unsplash.com/photo-1569949380646-48b8521613f3?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 dias",
           "preco": "€ 1.435"
+        },
+        {
+          "id": 18003,
+          "nome": "Jubileo",
+          "descricao": "Roma",
+          "imagem": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 Días",
+          "preco": "USD 1790"
+        },
+        {
+          "id": 18004,
+          "nome": "Europa para Todos",
+          "descricao": "Madrid / Madrid",
+          "imagem": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "18 DÍAS",
+          "preco": "USD 2138"
+        },
+        {
+          "id": 18005,
+          "nome": "Eurobus",
+          "descricao": "Madrid / Madrid",
+          "imagem": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=870&auto=format&fit=crop",
+          "duracao": "20 DÍAS",
+          "preco": "USD 2738"
+        },
+        {
+          "id": 18006,
+          "nome": "Mágica Europa",
+          "descricao": "Londres / Madrid",
+          "imagem": "https://images.unsplash.com/photo-1519677100203-5d2e8b1f5b1a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "19 DÍAS",
+          "preco": "USD 2653"
         }
       ]
     },
@@ -377,10 +808,10 @@
       "slug": "filipinas",
       "pacotes": [
         {
-          "id": 28,
+          "id": 19001,
           "nome": "Filipinas Paradisíaca",
-          "descricao": "<strong>Válido de 01 de novembro de 2025 a outubro de 2026</strong><br>Manila - Boracay - El Nido",
-          "imagem": "https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=869&auto=format&fit=crop",
+          "descricao": "Manila - Boracay - El Nido",
+          "imagem": "https://images.unsplash.com/photo-1578664182051-571acc2c5e58?q=80&w=872&auto=format&fit=crop",
           "duracao": "9 dias",
           "preco": "USD 1.575"
         }
@@ -392,7 +823,96 @@
       "descricao": "Pacotes para Orlando, Miami, Disney, praias e parques temáticos",
       "imagem": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=870&auto=format&fit=crop",
       "slug": "florida",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 20001,
+          "nome": "Mini Florida",
+          "descricao": "Miami – Orlando",
+          "imagem": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 994"
+        },
+        {
+          "id": 20002,
+          "nome": "Orlando at Glance",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 1002"
+        },
+        {
+          "id": 20003,
+          "nome": "Visit Florida Fly and Drive South",
+          "descricao": "Miami – Orlando",
+          "imagem": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1074"
+        },
+        {
+          "id": 20004,
+          "nome": "Visit Florida Fly and Drive North",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1174"
+        },
+        {
+          "id": 20005,
+          "nome": "Mini Epic",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 1336"
+        },
+        {
+          "id": 20006,
+          "nome": "Orlando All Around",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1368"
+        },
+        {
+          "id": 20007,
+          "nome": "Best Orlando",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 1566"
+        },
+        {
+          "id": 20008,
+          "nome": "Vacaciones Épicas",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1580"
+        },
+        {
+          "id": 20009,
+          "nome": "Encantos de Florida",
+          "descricao": "Miami – Orlando",
+          "imagem": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1580"
+        },
+        {
+          "id": 20010,
+          "nome": "Orlando Fiesta",
+          "descricao": "Orlando",
+          "imagem": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 1610"
+        },
+        {
+          "id": 20011,
+          "nome": "Florida Ideal",
+          "descricao": "Miami – Orlando",
+          "imagem": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 2024"
+        }
+      ]
     },
     {
       "id": 21,
@@ -400,7 +920,40 @@
       "descricao": "Pacotes para Atenas, ilhas gregas, Mykonos, Santorini",
       "imagem": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=774&auto=format&fit=crop",
       "slug": "grecia",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 21001,
+          "nome": "Golden",
+          "descricao": "Atenas",
+          "imagem": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "EUR 651"
+        },
+        {
+          "id": 21002,
+          "nome": "Grecia Espectacular",
+          "descricao": "Atenas",
+          "imagem": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "EUR 685"
+        },
+        {
+          "id": 21003,
+          "nome": "Grecia Completo",
+          "descricao": "Atenas",
+          "imagem": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "EUR 1046"
+        },
+        {
+          "id": 21004,
+          "nome": "Grecia Mitica",
+          "descricao": "Atenas",
+          "imagem": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "EUR 1704"
+        }
+      ]
     },
     {
       "id": 22,
@@ -408,7 +961,24 @@
       "descricao": "Pacotes para Antigua, Tikal, Lago Atitlán, cultura maia",
       "imagem": "https://images.unsplash.com/photo-1536708880921-03a9306ec47d?q=80&w=775&auto=format&fit=crop",
       "slug": "guatemala",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 22001,
+          "nome": "Guatemala Mágica",
+          "descricao": "Guatemala",
+          "imagem": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 Días",
+          "preco": "USD 744"
+        },
+        {
+          "id": 22002,
+          "nome": "Guatemala Sensacional",
+          "descricao": "Guatemala",
+          "imagem": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 Días",
+          "preco": "USD 1394"
+        }
+      ]
     },
     {
       "id": 23,
@@ -418,60 +988,84 @@
       "slug": "india",
       "pacotes": [
         {
-          "id": 29,
+          "id": 23001,
           "nome": "Triângulo do Norte",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
+          "descricao": "Delhi - Jaipur - Agra",
+          "imagem": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=871&auto=format&fit=crop",
           "duracao": "7 dias",
           "preco": "USD 845"
         },
         {
-          "id": 30,
+          "id": 23002,
           "nome": "Índia ao seu Alcance",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra - Extensão para Katmandu",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
+          "descricao": "Delhi - Jaipur - Agra - Extensão para Katmandu",
+          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 ou 10 dias",
           "preco": "USD 1.205 e USD 2.050"
         },
         {
-          "id": 31,
-          "nome": "Índia Espiritual",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra - Varanasi",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 1.880"
+          "id": 23003,
+          "nome": "Triángulo de Oro",
+          "descricao": "Delhi / Delhi",
+          "imagem": "https://images.unsplash.com/photo-1524307875964-4c93f5cade78?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1229"
         },
         {
-          "id": 32,
-          "nome": "Índia Surpreendente com Amritsar",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Amritsar - Jaipur - Agra - Extensão para Katmandu",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "9 ou 12 dias",
-          "preco": "USD 2.050 e USD 2.895"
-        },
-        {
-          "id": 33,
-          "nome": "A Riqueza da Índia",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Bombaim - Udaipur - Jaipur - Agra - Delhi",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
-          "duracao": "10 dias",
-          "preco": "USD 2.165"
-        },
-        {
-          "id": 34,
+          "id": 23004,
           "nome": "Rajastão Especial",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Udaipur - Jodhpur - Jaipur - Agra - Delhi",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
+          "descricao": "Delhi - Udaipur - Jodhpur - Jaipur - Agra - Delhi",
+          "imagem": "https://images.unsplash.com/photo-1532094340704-d43b040d44a2?q=80&w=870&auto=format&fit=crop",
           "duracao": "10 dias",
           "preco": "USD 2.040"
         },
         {
-          "id": 35,
+          "id": 23005,
+          "nome": "A Riqueza da Índia",
+          "descricao": "Bombaim - Udaipur - Jaipur - Agra - Delhi",
+          "imagem": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?q=80&w=1030&auto=format&fit=crop",
+          "duracao": "10 dias",
+          "preco": "USD 2.165"
+        },
+        {
+          "id": 23006,
           "nome": "Índia Sagrada",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Delhi - Jaipur - Agra - Khajuraho - Varanasi - Delhi - Extensão para Katmandu",
-          "imagem": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=871&auto=format&fit=crop",
+          "descricao": "Delhi - Jaipur - Agra - Khajuraho - Varanasi - Delhi - Extensão para Katmandu",
+          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
           "duracao": "10 ou 13 dias",
           "preco": "USD 2.250 e USD 3.095"
+        },
+        {
+          "id": 23007,
+          "nome": "Índia Surpreendente com Amritsar",
+          "descricao": "Delhi - Amritsar - Jaipur - Agra - Extensão para Katmandu",
+          "imagem": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?q=80&w=1032&auto=format&fit=crop",
+          "duracao": "9 ou 12 dias",
+          "preco": "USD 2.050 e USD 2.895"
+        },
+        {
+          "id": 23008,
+          "nome": "Índia Espiritual",
+          "descricao": "Delhi - Jaipur - Agra - Varanasi",
+          "imagem": "https://images.unsplash.com/photo-1585506936724-fa0c19d4b432?q=80&w=871&auto=format&fit=crop",
+          "duracao": "8 dias",
+          "preco": "USD 1.880"
+        },
+        {
+          "id": 23009,
+          "nome": "India Clásica",
+          "descricao": "Delhi / Delhi",
+          "imagem": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=870&auto=format&fit=crop",
+          "duracao": "11 DÍAS",
+          "preco": "USD 1897"
+        },
+        {
+          "id": 23010,
+          "nome": "India Colorida",
+          "descricao": "Delhi / Delhi",
+          "imagem": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 DÍAS",
+          "preco": "USD 2316"
         }
       ]
     },
@@ -483,36 +1077,36 @@
       "slug": "indonesia",
       "pacotes": [
         {
-          "id": 36,
-          "nome": "Descobrindo Bali e Gili",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Bali - Nusa Dua - Lovina - Candidasa - Ubud - Gili",
-          "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
-          "duracao": "10 dias",
-          "preco": "USD 1.935"
+          "id": 24001,
+          "nome": "Indochina Express",
+          "descricao": "Laos - Vietnã - Camboja",
+          "imagem": "https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=873&auto=format&fit=crop",
+          "duracao": "9 dias",
+          "preco": "USD 1.396"
         },
         {
-          "id": 37,
+          "id": 24002,
           "nome": "Bali Clássico",
-          "descricao": "<strong>Válido até outubro de 2026</strong><br>Denpasar - Ubud - Kuta - Tanah Lot",
+          "descricao": "Denpasar - Ubud - Kuta - Tanah Lot",
           "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
           "duracao": "5 dias",
           "preco": "USD 916"
         },
         {
-          "id": 38,
+          "id": 24003,
           "nome": "Ubud e Sul de Bali",
-          "descricao": "<strong>Válido até outubro de 2026</strong><br>Ubud - Seminyak - Uluwatu - Nusa Dua",
-          "imagem": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?q=80&w=872&auto=format&fit=crop",
+          "descricao": "Ubud - Seminyak - Uluwatu - Nusa Dua",
+          "imagem": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?q=80&w=928&auto=format&fit=crop",
           "duracao": "6 dias",
           "preco": "USD 1.195"
         },
         {
-          "id": 39,
-          "nome": "Indochina Express",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Laos - Vietnã - Camboja",
-          "imagem": "https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=873&auto=format&fit=crop",
-          "duracao": "9 dias",
-          "preco": "USD 1.396"
+          "id": 24004,
+          "nome": "Descobrindo Bali e Gili",
+          "descricao": "Bali - Nusa Dua - Lovina - Candidasa - Ubud - Gili",
+          "imagem": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 dias",
+          "preco": "USD 1.935"
         }
       ]
     },
@@ -522,7 +1116,32 @@
       "descricao": "Pacotes para Roma, Veneza, Florença, Costa Amalfitana",
       "imagem": "https://images.unsplash.com/photo-1534445867742-43195f401b6c?q=80&w=870&auto=format&fit=crop",
       "slug": "italia",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 25001,
+          "nome": "Maravillas de Toscana",
+          "descricao": "Florencia / Roma",
+          "imagem": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 3344"
+        },
+        {
+          "id": 25002,
+          "nome": "Motores de Italia",
+          "descricao": "Milán, Venecia, Florencia o Roma",
+          "imagem": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 4307"
+        },
+        {
+          "id": 25003,
+          "nome": "Toscana Gastronómica",
+          "descricao": "Milán, Roma o Venecia",
+          "imagem": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 4797"
+        }
+      ]
     },
     {
       "id": 26,
@@ -532,44 +1151,44 @@
       "slug": "japao",
       "pacotes": [
         {
-          "id": 40,
-          "nome": "Banzai Japão",
-          "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Osaka",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "10 dias",
-          "preco": "USD 3.297"
-        },
-        {
-          "id": 41,
-          "nome": "Japão Espiritual",
-          "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Nagoya - Ise - Kumano - Koyasan",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "13 dias",
-          "preco": "USD 4.595"
-        },
-        {
-          "id": 42,
+          "id": 26001,
           "nome": "Tentações do Japão",
-          "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Tóquio - Hakone - Nara - Quioto",
+          "descricao": "Tóquio - Hakone - Nara - Quioto",
           "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 dias",
           "preco": "USD 2.098"
         },
         {
-          "id": 43,
+          "id": 26002,
+          "nome": "Japão Expresso",
+          "descricao": "Osaka - Nara - Quioto - Hakone - Tóquio",
+          "imagem": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 dias",
+          "preco": "USD 2.790"
+        },
+        {
+          "id": 26003,
+          "nome": "Banzai Japão",
+          "descricao": "Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Osaka",
+          "imagem": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 dias",
+          "preco": "USD 3.297"
+        },
+        {
+          "id": 26004,
           "nome": "Japão Completo",
-          "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Osaka - Nara - Quioto - Magome - Tsumago - Takayama - Shirakawago - Nagoya - Hakone - Tóquio",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Osaka - Nara - Quioto - Magome - Tsumago - Takayama - Shirakawago - Nagoya - Hakone - Tóquio",
+          "imagem": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=870&auto=format&fit=crop",
           "duracao": "10 dias",
           "preco": "USD 3.607"
         },
         {
-          "id": 44,
-          "nome": "Japão Expresso",
-          "descricao": "<strong>Válido de 01 de abril de 2025 a 31 de março de 2026</strong><br>Osaka - Nara - Quioto - Hakone - Tóquio",
-          "imagem": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias",
-          "preco": "USD 2.790"
+          "id": 26005,
+          "nome": "Japão Espiritual",
+          "descricao": "Tóquio - Hakone - Nara - Quioto - Kanazawa - Gero - Nagoya - Ise - Kumano - Koyasan",
+          "imagem": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "13 dias",
+          "preco": "USD 4.595"
         }
       ]
     },
@@ -581,60 +1200,68 @@
       "slug": "marrocos",
       "pacotes": [
         {
-          "id": 12,
-          "nome": "Costa del Sol e Medinas Andaluzas",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
-          "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias",
-          "preco": "USD 1.220"
-        },
-        {
-          "id": 13,
+          "id": 27001,
           "nome": "Marrocos: Cidades Imperiais",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Casablanca - Rabat - Tânger - Chefchaouen - Meknes - Fez - Ifrane - Beni Mellal - Marrakech",
+          "descricao": "Casablanca - Rabat - Tânger - Chefchaouen - Meknes - Fez - Ifrane - Beni Mellal - Marrakech",
           "imagem": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 dias",
           "preco": "USD 790"
         },
         {
-          "id": 14,
+          "id": 27002,
           "nome": "Marrocos: Cidades Imperiais e Casbás",
-          "descricao": "<strong>Válido até abril de 2026</strong><br>Casablanca - Tânger - Fez - Erfoud - Ouarzazate - Marrakech",
+          "descricao": "Casablanca - Tânger - Fez - Erfoud - Ouarzazate - Marrakech",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 dias",
           "preco": "USD 840"
         },
         {
-          "id": 15,
-          "nome": "Costa del Sol e Marrocos",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Tânger - Tetuão - Chefchaouen - Casablanca - Marrakech - Fez",
-          "imagem": "https://images.unsplash.com/photo-1570500708855-7c6c20d5c6f4?q=80&w=870&auto=format&fit=crop",
-          "duracao": "9 dias",
-          "preco": "USD 1.500"
-        },
-        {
-          "id": 16,
-          "nome": "Costa del Sol e o Grande Deserto",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Costa del Sol - Casablanca - Marrakech - Ait Ben Haddou - Merzouga - Erfoud - Fez - Tânger",
+          "id": 27003,
+          "nome": "Entre Medinas e Dunas",
+          "descricao": "Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "11 dias",
-          "preco": "USD 1.730"
+          "duracao": "8 dias",
+          "preco": "USD 995"
         },
         {
-          "id": 17,
+          "id": 27004,
+          "nome": "Costa del Sol e Medinas Andaluzas",
+          "descricao": "Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
+          "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 dias",
+          "preco": "USD 1.220"
+        },
+        {
+          "id": 27005,
           "nome": "4x4 no Deserto entre Oásis e Dunas",
-          "descricao": "<strong>Válido até fevereiro de 2026</strong><br>Marrakech - Ouarzazate - Boumalne de Dades - Merzouga - Zagora",
+          "descricao": "Marrakech - Ouarzazate - Boumalne de Dades - Merzouga - Zagora",
           "imagem": "https://images.unsplash.com/photo-1570500708855-7c6c20d5c6f4?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 dias",
           "preco": "USD 1.435"
         },
         {
-          "id": 18,
-          "nome": "Entre Medinas e Dunas",
-          "descricao": "<strong>Válido até fevereiro de 2026</strong><br>Costa del Sol - Tânger - Fez - Chefchaouen - Tetuão",
+          "id": 27006,
+          "nome": "Costa del Sol e Marrocos",
+          "descricao": "Costa del Sol - Tânger - Tetuão - Chefchaouen - Casablanca - Marrakech - Fez",
+          "imagem": "https://images.unsplash.com/photo-1570500708855-7c6c20d5c6f4?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 dias",
+          "preco": "USD 1.500"
+        },
+        {
+          "id": 27007,
+          "nome": "Costa del Sol e o Grande Deserto",
+          "descricao": "Costa del Sol - Casablanca - Marrakech - Ait Ben Haddou - Merzouga - Erfoud - Fez - Tânger",
           "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870&auto=format&fit=crop",
-          "duracao": "8 dias",
-          "preco": "USD 995"
+          "duracao": "11 dias",
+          "preco": "USD 1.730"
+        },
+        {
+          "id": 27008,
+          "nome": "Marruecos - Ciudades Imperiales",
+          "descricao": "Tánger / Tánger",
+          "imagem": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 Días",
+          "preco": "USD 1502"
         }
       ]
     },
@@ -644,7 +1271,105 @@
       "descricao": "Pacotes para Cidade do México, Cancún, Riviera Maya, Cultura Maia",
       "imagem": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?q=80&w=1031&auto=format&fit=crop",
       "slug": "mexico",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 28001,
+          "nome": "Stopover Clásico",
+          "descricao": "Panamá",
+          "imagem": "https://images.unsplash.com/photo-1554780336-7c9c5a21f7e3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "3 DÍAS",
+          "preco": "USD 160"
+        },
+        {
+          "id": 28002,
+          "nome": "México Exclusive",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1524852784102-db3dd1315bcf?q=80&w870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 441"
+        },
+        {
+          "id": 28003,
+          "nome": "México Deluxe",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1518635017498-87f514b751ba?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 445"
+        },
+        {
+          "id": 28004,
+          "nome": "Verano Frente al Mar",
+          "descricao": "Panamá",
+          "imagem": "https://images.unsplash.com/photo-1554780336-7c9c5a21f7e3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 415"
+        },
+        {
+          "id": 28005,
+          "nome": "Stopover Plus",
+          "descricao": "Panamá",
+          "imagem": "https://images.unsplash.com/photo-1554780336-7c9c5a21f7e3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "3 DÍAS",
+          "preco": "USD 228"
+        },
+        {
+          "id": 28006,
+          "nome": "México Clásico",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1518635017498-87f514b751ba?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 748"
+        },
+        {
+          "id": 28007,
+          "nome": "Ruta de la Independencia",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1524852784102-db3dd1315bcf?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 748"
+        },
+        {
+          "id": 28008,
+          "nome": "Stopover Premium",
+          "descricao": "Panamá",
+          "imagem": "https://images.unsplash.com/photo-1554780336-7c9c5a21f7e3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 393"
+        },
+        {
+          "id": 28009,
+          "nome": "México, Música y Playa",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1513326738677-b964603b136d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 979"
+        },
+        {
+          "id": 28010,
+          "nome": "Tesoros Coloniales",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1524852784102-db3dd1315bcf?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 1175"
+        },
+        {
+          "id": 28011,
+          "nome": "Formula 1",
+          "descricao": "México",
+          "imagem": "https://images.unsplash.com/photo-1518635017498-87f514b751ba?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 2243"
+        },
+        {
+          "id": 28012,
+          "nome": "Panamá Clásico 2x1",
+          "descricao": "Panamá",
+          "imagem": "https://images.unsplash.com/photo-1554780336-7c9c5a21f7e3?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 424",
+          "nota": "Por duas pessoas em acomodação dupla"
+        }
+      ]
     },
     {
       "id": 29,
@@ -660,7 +1385,96 @@
       "descricao": "Pacotes para Lima, Cusco, Machu Picchu, Vale Sagrado",
       "imagem": "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=870&auto=format&fit=crop",
       "slug": "peru",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 30001,
+          "nome": "Lima Gastronómica – Perú Week",
+          "descricao": "Lima",
+          "imagem": "https://images.unsplash.com/photo-1526392587636-9a0e8a0e7b5b?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 326"
+        },
+        {
+          "id": 30002,
+          "nome": "Lima, Cultura y Tradición",
+          "descricao": "Lima",
+          "imagem": "https://images.unsplash.com/photo-1526392587636-9a0e8a0e7b5b?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 449"
+        },
+        {
+          "id": 30003,
+          "nome": "Lima e Ica de Aventura – Perú Week",
+          "descricao": "Lima",
+          "imagem": "https://images.unsplash.com/photo-1526392587636-9a0e8a0e7b5b?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 528"
+        },
+        {
+          "id": 30004,
+          "nome": "Perú, Una Gran Aventura",
+          "descricao": "Lima",
+          "imagem": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 941"
+        },
+        {
+          "id": 30005,
+          "nome": "Nuevo Amanecer en Machu Picchu",
+          "descricao": "Lima",
+          "imagem": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 926"
+        },
+        {
+          "id": 30006,
+          "nome": "Lo Mejor de Cusco",
+          "descricao": "Lima / Cusco",
+          "imagem": "https://images.unsplash.com/photo-1578439235817-9e1f7a3f4c5a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 DÍAS",
+          "preco": "USD 927"
+        },
+        {
+          "id": 30007,
+          "nome": "Cusco, Cultura Viva",
+          "descricao": "Lima – Cusco",
+          "imagem": "https://images.unsplash.com/photo-1578439235817-9e1f7a3f4c5a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "USD 984"
+        },
+        {
+          "id": 30008,
+          "nome": "Grandes Maravillas de Cusco",
+          "descricao": "Lima / Cusco",
+          "imagem": "https://images.unsplash.com/photo-1578439235817-9e1f7a3f4c5a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 997"
+        },
+        {
+          "id": 30009,
+          "nome": "De los Enigmas a los Incas",
+          "descricao": "Lima / Cusco",
+          "imagem": "https://images.unsplash.com/photo-1578439235817-9e1f7a3f4c5a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1430"
+        },
+        {
+          "id": 30010,
+          "nome": "Descubra Perú",
+          "descricao": "Lima / Cusco",
+          "imagem": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 1435"
+        },
+        {
+          "id": 30011,
+          "nome": "Gran Expedición Inca",
+          "descricao": "Lima / Cusco",
+          "imagem": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=870&auto=format&fit=crop",
+          "duracao": "15 DÍAS",
+          "preco": "USD 2273"
+        }
+      ]
     },
     {
       "id": 31,
@@ -668,7 +1482,16 @@
       "descricao": "Pacotes para Lisboa, Porto, Algarve, cultura e história",
       "imagem": "https://images.unsplash.com/photo-1518693800412-ad92111a1d46?q=80&w=870&auto=format&fit=crop",
       "slug": "portugal",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 31001,
+          "nome": "Lisboa, Oporto y Fátima",
+          "descricao": "Madrid / Madrid",
+          "imagem": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?q=80&w=870&auto=format&fit=crop",
+          "duracao": "6 DÍAS",
+          "preco": "EUR 868"
+        }
+      ]
     },
     {
       "id": 32,
@@ -676,7 +1499,40 @@
       "descricao": "Pacotes para San Juan, praias, história e cultura caribenha",
       "imagem": "https://images.unsplash.com/photo-1542291023-5faf8e0eaa7a?q=80&w=870&auto=format&fit=crop",
       "slug": "porto-rico",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 32001,
+          "nome": "San Juan Básico",
+          "descricao": "San Juan",
+          "imagem": "https://images.unsplash.com/photo-1542376629-4e4c45e1b9c9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 885"
+        },
+        {
+          "id": 32002,
+          "nome": "San Juan y Barceloneta de Shopping",
+          "descricao": "Barceloneta",
+          "imagem": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 1146"
+        },
+        {
+          "id": 32003,
+          "nome": "San Juan y Ponce",
+          "descricao": "Ponce",
+          "imagem": "https://images.unsplash.com/photo-1542376629-4e4c45e1b9c9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 1176"
+        },
+        {
+          "id": 32004,
+          "nome": "Tributo a los Salseros",
+          "descricao": "San Juan",
+          "imagem": "https://images.unsplash.com/photo-1542376629-4e4c45e1b9c9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 1205"
+        }
+      ]
     },
     {
       "id": 33,
@@ -684,7 +1540,32 @@
       "descricao": "Pacotes para Londres, Escócia, Irlanda, castelos e história",
       "imagem": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?q=80&w=871&auto=format&fit=crop",
       "slug": "reino-unido",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 33001,
+          "nome": "Lo Mejor de Inglaterra, Escocia y Londres",
+          "descricao": "Londres",
+          "imagem": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=870&auto=format&fit=crop",
+          "duracao": "11 DÍAS",
+          "preco": "USD 2193"
+        },
+        {
+          "id": 33002,
+          "nome": "Inglaterra Clásica y Londres",
+          "descricao": "Londres",
+          "imagem": "https://images.unsplash.com/photo-1519677100203-5d2e8b1f5b1a?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 2409"
+        },
+        {
+          "id": 33003,
+          "nome": "Maravillas de Inglaterra, Escocia, Irlanda y Londres",
+          "descricao": "Londres",
+          "imagem": "https://images.unsplash.com/photo-1569302911021-297d2365e8e9?q=80&w=870&auto=format&fit=crop",
+          "duracao": "13 DÍAS",
+          "preco": "USD 2879"
+        }
+      ]
     },
     {
       "id": 34,
@@ -694,28 +1575,63 @@
       "slug": "tailandia",
       "pacotes": [
         {
-          "id": 58,
-          "nome": "Festival de Lanternas na Tailândia",
-          "descricao": "<strong>Válido de 20 a 26 de novembro de 2026</strong><br>Bangkok - Chiang Mai - Festival de Luzes e Lanternas Loy Krathong",
-          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
-          "duracao": "7 dias",
-          "preco": "USD 1.675"
-        },
-        {
-          "id": 59,
+          "id": 34001,
           "nome": "Tailândia ao seu Alcance",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Bangkok - Phitsanulok - Chiang Rai - Chiang Mai",
-          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Bangkok - Phitsanulok - Chiang Rai - Chiang Mai",
+          "imagem": "https://images.unsplash.com/photo-1580327344181-c1163234e5a0?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 dias",
           "preco": "USD 995"
         },
         {
-          "id": 60,
+          "id": 34002,
           "nome": "Super Tailândia ao seu Alcance",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Bangkok - Kanchanaburi - Phitsanulok - Chiang Rai - Chiang Mai",
+          "descricao": "Bangkok - Kanchanaburi - Phitsanulok - Chiang Rai - Chiang Mai",
           "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
           "duracao": "9 dias",
           "preco": "USD 1.255"
+        },
+        {
+          "id": 34003,
+          "nome": "Festival de Lanternas na Tailândia",
+          "descricao": "Bangkok - Chiang Mai - Festival de Luzes e Lanternas Loy Krathong",
+          "imagem": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?q=80&w=870&auto=format&fit=crop",
+          "duracao": "7 dias",
+          "preco": "USD 1.675"
+        },
+        {
+          "id": 34004,
+          "nome": "Misterios de Tailandia",
+          "descricao": "Bangkok / Chiang Mai",
+          "imagem": "https://images.unsplash.com/photo-1552465011-b4e30bf7349d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "08 DÍAS",
+          "preco": "USD 1923",
+          "nota": "Por pessoa em acomodação dupla"
+        },
+        {
+          "id": 34005,
+          "nome": "Entre Templos y Pagodas",
+          "descricao": "Bangkok / Hanói",
+          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "duracao": "15 DÍAS",
+          "preco": "USD 3343",
+          "nota": "Por pessoa em acomodação dupla"
+        },
+        {
+          "id": 34006,
+          "nome": "Tailandia & Phuket Paraíso 2x1",
+          "descricao": "Bangkok / Phuket",
+          "imagem": "https://images.unsplash.com/photo-1552465011-b4e30bf7349d?q=80&w=870&auto=format&fit=crop",
+          "duracao": "12 DÍAS",
+          "preco": "USD 3305",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 34007,
+          "nome": "Los 3 Dragones del Este I",
+          "descricao": "Bangkok / Siem Reap",
+          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "duracao": "22 DÍAS",
+          "preco": "USD 4624"
         }
       ]
     },
@@ -725,7 +1641,48 @@
       "descricao": "Pacotes para Israel e Jordânia: Jerusalém, Belém, Mar Morto, Petra",
       "imagem": "https://images.unsplash.com/photo-1586769852044-692eb57e5c0a?q=80&w=870&auto=format&fit=crop",
       "slug": "terra-santa",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 35001,
+          "nome": "Sara Espíritu Israel",
+          "descricao": "Tel Aviv / Jerusalén",
+          "imagem": "https://images.unsplash.com/photo-1589977077736-6995a48a7bc0?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1505"
+        },
+        {
+          "id": 35002,
+          "nome": "Rebeca Tierra de Fe",
+          "descricao": "Tel Aviv / Jerusalén",
+          "imagem": "https://images.unsplash.com/photo-1589977077736-6995a48a7bc0?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 1505"
+        },
+        {
+          "id": 35003,
+          "nome": "Mini Triángulo Continental: Egipto, Jordania e Israel",
+          "descricao": "El Cairo / Jerusalén",
+          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
+          "duracao": "11 DÍAS",
+          "preco": "USD 1864"
+        },
+        {
+          "id": 35004,
+          "nome": "Tierra Santa y Petra",
+          "descricao": "Tel Aviv / Petra",
+          "imagem": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=870&auto=format&fit=crop",
+          "duracao": "9 DÍAS",
+          "preco": "USD 2033"
+        },
+        {
+          "id": 35005,
+          "nome": "Triángulo Continental: Egipto, Jordania e Israel",
+          "descricao": "El Cairo / Jerusalén",
+          "imagem": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=870&auto=format&fit=crop",
+          "duracao": "18 DÍAS",
+          "preco": "USD 3273"
+        }
+      ]
     },
     {
       "id": 36,
@@ -733,7 +1690,62 @@
       "descricao": "Pacotes para Istambul, Capadócia, Éfeso, Pamukkale",
       "imagem": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?q=80&w=871&auto=format&fit=crop",
       "slug": "turquia",
-      "pacotes": []
+      "pacotes": [
+        {
+          "id": 36001,
+          "nome": "Fantástica Capadocia",
+          "descricao": "Estambul / Capadocia",
+          "imagem": "https://images.unsplash.com/photo-1589560362955-d88cce9cb8e6?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 358",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 36002,
+          "nome": "Turquía Express",
+          "descricao": "Capadocia / Izmir o Kusadasi",
+          "imagem": "https://images.unsplash.com/photo-1589560362955-d88cce9cb8e6?q=80&w=870&auto=format&fit=crop",
+          "duracao": "5 DÍAS",
+          "preco": "USD 530",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 36003,
+          "nome": "Lo Mejor de Estambul",
+          "descricao": "Estambul",
+          "imagem": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=870&auto=format&fit=crop",
+          "duracao": "4 DÍAS",
+          "preco": "USD 588",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 36004,
+          "nome": "Joyas de Turquía",
+          "descricao": "Estambul / Esmirna o Kusadasi",
+          "imagem": "https://images.unsplash.com/photo-1593238739364-18ceb57d4c2c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "8 DÍAS",
+          "preco": "USD 436",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 36005,
+          "nome": "Turquía para Todos",
+          "descricao": "Estambul",
+          "imagem": "https://images.unsplash.com/photo-1593238739364-18ceb57d4c2c?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 845",
+          "nota": "Por duas pessoas em acomodação dupla"
+        },
+        {
+          "id": 36006,
+          "nome": "Turquía Fabulosa 2x1",
+          "descricao": "Estambul",
+          "imagem": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=870&auto=format&fit=crop",
+          "duracao": "10 DÍAS",
+          "preco": "USD 970",
+          "nota": "Por duas pessoas em acomodação dupla"
+        }
+      ]
     },
     {
       "id": 37,
@@ -743,18 +1755,18 @@
       "slug": "vietna",
       "pacotes": [
         {
-          "id": 69,
+          "id": 37001,
           "nome": "Essência do Vietnã",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Hanói - Halong - Hoi An - Hue - Cidade de Ho Chi Minh",
-          "imagem": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Hanói - Halong - Hoi An - Hue - Cidade de Ho Chi Minh",
+          "imagem": "https://images.unsplash.com/photo-1551818259-78c69c7e1536?q=80&w=872&auto=format&fit=crop",
           "duracao": "10 dias",
           "preco": "USD 1.445"
         },
         {
-          "id": 70,
+          "id": 37002,
           "nome": "Vietnã, Camboja e Bangkok",
-          "descricao": "<strong>Válido até março de 2026</strong><br>Hanói - Junco Halong - Siem Reap - Bangkok",
-          "imagem": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=870&auto=format&fit=crop",
+          "descricao": "Hanói - Junco Halong - Siem Reap - Bangkok",
+          "imagem": "https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=873&auto=format&fit=crop",
           "duracao": "9 ou 12 dias",
           "preco": "USD 1.975 e USD 2.640"
         }
