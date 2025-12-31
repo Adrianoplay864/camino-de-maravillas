@@ -65,7 +65,7 @@
         }
 
         try {
-          const response = await fetch("destinos.json");
+          const response = await fetch("./destinos.json");
           const data = await response.json();
 
           // Encontrar destino pelo slug
@@ -97,7 +97,9 @@
                 index % 3
               }`;
               card.innerHTML = `
-                <div class="destination-img" style="background-image: url('${pacote.imagem}');">
+                <div class="destination-img" style="background-image: url('${
+                  pacote.imagem
+                }');">
                     <div class="destination-price">Desde ${pacote.preco}</div>
                 </div>
                 <div class="destination-info">
@@ -105,7 +107,9 @@
                     <div class="descricao-resumida">${pacote.descricao}</div>
                     
                     <div class="destination-meta">
-                        <span><i class="far fa-calendar"></i> ${pacote.duracao}</span>
+                        <span><i class="far fa-calendar"></i> ${
+                          pacote.duracao
+                        }</span>
                     </div>
                     
                     <div class="card-actions">
