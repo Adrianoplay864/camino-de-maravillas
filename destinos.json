@@ -45,14 +45,14 @@
       "id": 2,
       "nome": "África Oriental",
       "descricao": "Pacotes para Quênia, Tanzânia, Uganda e Zimbábue",
-      "imagem": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?q=80&w=867&auto=format&fit=crop",
+      "imagem": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?q=80&w=871&auto=format&fit=crop",
       "slug": "africa-oriental",
       "pacotes": [
         {
           "id": 2001,
           "nome": "Breve Quênia",
           "descricao": "Nairóbi - Montanhas Aberdare - Lago Nakuru - Maasai Mara",
-          "imagem": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?q=80&w=871&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?q=80&w=1030&auto=format&fit=crop",
           "duracao": "6 dias",
           "preco": "USD 2.065"
         },
@@ -182,7 +182,7 @@
           "id": 5001,
           "nome": "Aruba Clásica",
           "descricao": "Aruba",
-          "imagem": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1519046904884-53103b34b206?q=80&w=870&auto=format&fit=crop",
           "duracao": "5 DÍAS",
           "preco": "USD 651"
         },
@@ -223,7 +223,7 @@
           "id": 7002,
           "nome": "Bolivia Clásico",
           "descricao": "La Paz / La Paz",
-          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1545330681-3bcb0fca1be4?q=80&w=870&auto=format&fit=crop",
           "duracao": "5 DÍAS",
           "preco": "USD 715"
         },
@@ -231,7 +231,7 @@
           "id": 7003,
           "nome": "Lo Mejor de Bolivia",
           "descricao": "La Paz / La Paz",
-          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?q=80&w=871&auto=format&fit=crop",
           "duracao": "8 DÍAS",
           "preco": "USD 1791"
         },
@@ -239,7 +239,7 @@
           "id": 7004,
           "nome": "Todo Bolivia",
           "descricao": "Santa Cruz / Santa Cruz",
-          "imagem": "https://images.unsplash.com/photo-1580549404908-81c3c61db6b7?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?q=80&w=928&auto=format&fit=crop",
           "duracao": "11 DÍAS",
           "preco": "USD 2246"
         }
@@ -264,7 +264,7 @@
           "id": 8002,
           "nome": "Ellas en Río de Janeiro",
           "descricao": "Río de Janeiro",
-          "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1591133150053-718d8cffc3b3?q=80&w=870&auto=format&fit=crop",
           "duracao": "5 días",
           "preco": "USD 771"
         },
@@ -272,7 +272,7 @@
           "id": 8003,
           "nome": "Lo Mejor de Río y Búzios",
           "descricao": "Búzios / Río de Janeiro",
-          "imagem": "https://images.unsplash.com/photo-1591133150053-718d8cffc3b3?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=870&auto=format&fit=crop",
           "duracao": "6 días",
           "preco": "USD 564"
         },
@@ -288,7 +288,7 @@
           "id": 8005,
           "nome": "Lo Mejor de Río y Paraty",
           "descricao": "Paraty / Río de Janeiro",
-          "imagem": "https://images.unsplash.com/photo-1591133150053-718d8cffc3b3?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1519181245277-c979f3c1551c?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 días",
           "preco": "USD 724"
         },
@@ -296,7 +296,7 @@
           "id": 8006,
           "nome": "Brasil Clásico",
           "descricao": "Río de Janeiro / Salvador",
-          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
           "duracao": "9 días",
           "preco": "USD 845"
         },
@@ -312,7 +312,7 @@
           "id": 8008,
           "nome": "Maravillas de Brasil",
           "descricao": "Río de Janeiro / Manaos",
-          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?q=80&w=870&auto=format&fit=crop",
           "duracao": "10 días",
           "preco": "USD 1593"
         },
@@ -320,7 +320,7 @@
           "id": 8009,
           "nome": "Sao - Manaos - Selva Amazonica - Rio",
           "descricao": "Sao Paulo / Río de Janeiro",
-          "imagem": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
           "duracao": "9 días",
           "preco": "USD 1652"
         },
@@ -328,7 +328,7 @@
           "id": 8010,
           "nome": "Lo Mejor de Brasil",
           "descricao": "Río de Janeiro / Salvador",
-          "imagem": "https://images.unsplash.com/photo-1619546952811-7d5c2c43b88d?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?q=80&w=870&auto=format&fit=crop",
           "duracao": "12 días",
           "preco": "USD 1742"
         }
@@ -338,7 +338,7 @@
       "id": 9,
       "nome": "Camboja",
       "descricao": "Pacotes para Siem Reap, Angkor Wat, Angkor Thom",
-      "imagem": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?q=80&w=867&auto=format&fit=crop",
+      "imagem": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=870&auto=format&fit=crop",
       "slug": "camboja",
       "pacotes": [
         {
@@ -370,7 +370,7 @@
           "id": 10002,
           "nome": "Alto y Bajo Canadá",
           "descricao": "Toronto/Montreal",
-          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1534231140127-50e4b789c7d3?q=80&w=870&auto=format&fit=crop",
           "duracao": "07 DÍAS",
           "preco": "USD 1578"
         },
@@ -378,7 +378,7 @@
           "id": 10003,
           "nome": "Canadá Expreso",
           "descricao": "New York – Canadá – New York",
-          "imagem": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 DÍAS",
           "preco": "USD 1820"
         },
@@ -394,7 +394,7 @@
           "id": 10005,
           "nome": "Ciudades Históricas del Este de Canadá",
           "descricao": "Toronto / Montreal",
-          "imagem": "https://images.unsplash.com/photo-1534231140127-50e4b789c7d3?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1579546929662-711aa81148cf?q=80&w=870&auto=format&fit=crop",
           "duracao": "8 DÍAS",
           "preco": "USD 2453"
         },
@@ -402,7 +402,7 @@
           "id": 10006,
           "nome": "Quebec Salvaje",
           "descricao": "Montreal",
-          "imagem": "https://images.unsplash.com/photo-1534231140127-50e4b789c7d3?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1534190760961-74e8c9c6c3d1?q=80&w=870&auto=format&fit=crop",
           "duracao": "10 DÍAS",
           "preco": "USD 3083"
         },
@@ -410,7 +410,7 @@
           "id": 10007,
           "nome": "Canadá Salvaje",
           "descricao": "Toronto – Montreal",
-          "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?q=80&w=870&auto=format&fit=crop",
           "duracao": "12 DÍAS",
           "preco": "USD 3360"
         },
@@ -418,7 +418,7 @@
           "id": 10008,
           "nome": "Maravillas de las Rocosas Canadienses",
           "descricao": "Calgary / Vancouver",
-          "imagem": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1519677100203-6f5d4c7a08c9?q=80&w=1031&auto=format&fit=crop",
           "duracao": "10 DÍAS",
           "preco": "USD 4799"
         }
@@ -501,7 +501,7 @@
           "id": 14002,
           "nome": "Costa Rica 3 Esenciales",
           "descricao": "San José / Manuel Antonio",
-          "imagem": "https://images.unsplash.com/photo-1536700503339-1f58a8e89d28?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1534188753412-9f0337dbaff6?q=80&w=774&auto=format&fit=crop",
           "duracao": "",
           "preco": "USD 1756"
         },
@@ -509,7 +509,7 @@
           "id": 14003,
           "nome": "Escapada de Lujo en Costa Rica",
           "descricao": "San José",
-          "imagem": "https://images.unsplash.com/photo-1536700503339-1f58a8e89d28?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1543321269-9d86d3680e1c?q=80&w=870&auto=format&fit=crop",
           "duracao": "",
           "preco": "USD 4961"
         }
@@ -657,7 +657,7 @@
           "id": 17002,
           "nome": "Salt Lake City",
           "descricao": "Salt Lake City",
-          "imagem": "https://images.unsplash.com/photo-1587734195503-904137cec4a6?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=870&auto=format&fit=crop",
           "duracao": "04 DÍAS",
           "preco": "USD 858"
         },
@@ -697,7 +697,7 @@
           "id": 17007,
           "nome": "Triángulo del Este",
           "descricao": "New York",
-          "imagem": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=870&auto=format&fit=crop",
+          "imagem": "https://images.unsplash.com/photo-1494522358652-c549345d2c9e?q=80&w=870&auto=format&fit=crop",
           "duracao": "7 DÍAS",
           "preco": "USD 1700"
         },
